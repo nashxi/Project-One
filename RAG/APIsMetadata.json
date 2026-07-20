@@ -1,0 +1,30 @@
+[
+  {
+    "api_id": "api_001",
+    "title": "Stripe Payment Gateway",
+    "description": "Accept global payments, process credit cards, manage recurring billing, and track payouts securely.",
+    "category": "Finance",
+    "tags": ["payment", "billing", "credit-card", "subscription", "checkout"]
+  },
+  {
+    "api_id": "api_002",
+    "title": "SendGrid Email Service",
+    "description": "Reliable transactional email infrastructure, customer marketing campaigns, and inbound email parsing.",
+    "category": "Communication",
+    "tags": ["email", "transactional", "marketing", "smtp", "newsletter"]
+  },
+  {
+    "api_id": "api_003",
+    "title": "OpenWeatherMap API",
+    "description": "Access current global weather reports, historical climate trends, and multi-day meteorological forecasts.",
+    "category": "Weather",
+    "tags": ["weather", "forecast", "climate", "location", "temperature"]
+  },
+  {
+    "api_id": "api_004",
+    "title": "Twilio SMS & Voice API",
+    "description": "Programmatically send text messages, initiate phone calls, and build automated verification systems.",
+    "category": "Communication",
+    "tags": ["sms", "voice", "otp", "phone", "text"]
+  }
+]

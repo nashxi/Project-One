@@ -1,0 +1,38 @@
+[
+  {
+    "api_id": "api_001",
+    "title": "Stripe Payment Gateway",
+    "description": "Accept global payments, process credit cards, and manage recurring billing.",
+    "category": "Finance",
+    "tags": ["payment", "billing", "credit-card"],
+    "request_schema": {
+      "amount": "integer (amount in cents)",
+      "currency": "string (usd, eur, gbp)",
+      "source_token": "string (payment token id)",
+      "description": "string (optional description)"
+    },
+    "response_schema": {
+      "charge_id": "string (unique identifier)",
+      "status": "string (succeeded, pending, failed)",
+      "paid_amount": "integer",
+      "receipt_url": "string (link to customer invoice)"
+    }
+  },
+  {
+    "api_id": "api_004",
+    "title": "Twilio SMS API",
+    "description": "Programmatically send text messages and automated verification codes.",
+    "category": "Communication",
+    "tags": ["sms", "otp", "phone"],
+    "request_schema": {
+      "to_phone_number": "string (E.164 format international phone number)",
+      "message_body": "string (text content max 160 characters)",
+      "sender_id": "string (optional alphanumeric sender masking)"
+    },
+    "response_schema": {
+      "message_sid": "string (unique message tracking token)",
+      "status": "string (queued, sent, delivered, failed)",
+      "error_code": "integer (null if successful)"
+    }
+  }
+]
