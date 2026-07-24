@@ -1,0 +1,509 @@
+{
+  "responses": [
+    {
+      "question": "What is the effective date of my deposit account agreement?",
+      "answer": "Effective June 14, 2026"
+    },
+    {
+      "question": "What is the effect on my Chase or J.P. Morgan Private Client account if the terms and conditions of this agreement are updated?",
+      "answer": "The terms and conditions may be changed, and you should review and agree to any new terms."
+    },
+    {
+      "question": "What information can I find on the Deposit Account Agreement website?",
+      "answer": "The Deposit Account Agreement also includes these separate documents that pertain to our personal and business accounts:"
+    },
+    {
+      "question": "What are the additional banking services and fees for personal accounts?",
+      "answer": "Additional Banking Services and Fees for Personal Accounts"
+    },
+    {
+      "question": "How can I contact your company regarding account-related disclosures?",
+      "answer": "See below for our contact information."
+    },
+    {
+      "question": "What is the main phone number for business accounts at Chase?",
+      "answer": "1-800-242-7338"
+    },
+    {
+      "question": "What is the main phone number for private clients at Chase?",
+      "answer": "1-888-994-5626"
+    },
+    {
+      "question": "What is the contact information for disputing errors or questions about EFTs?",
+      "answer": "1-866-564-2262 or Chase PO Box 659809 Internal Mail TX3-7849 San Antonio, TX 78265-9109"
+    },
+    {
+      "question": "What is the address of JPMorgan Chase Bank, N.A. for consumer reporting purposes?",
+      "answer": {
+        "address": "PO Box 182108 Internal Mail OHW-1000 Columbus, OH 43218"
+      }
+    },
+    {
+      "question": "What is the effective date of the DEPOSIT ACCOUNT AGREEMENT for JPMorgan Chase Bank, N.A.?",
+      "answer": "6/14/2026"
+    },
+    {
+      "question": "How do I open a new account",
+      "answer": "You can open your account by following the instructions provided during the sign-up process."
+    },
+    {
+      "question": "What type of account is solely owned?",
+      "answer": "A personal one."
+    },
+    {
+      "question": "What is a joint account?",
+      "answer": "A joint account is a financial account held by two or more people, who share ownership and responsibility for the account's transactions."
+    },
+    {
+      "question": "What is the name of a bank account that pays off when the account holder dies?",
+      "answer": ""
+    },
+    {
+      "question": "What is the difference between a formal trust and a convenience account?",
+      "answer": "A formal trust refers to an account held in a legal trust, where assets are managed for the benefit of one or more beneficiaries, whereas a convenience account is a type of checking or savings account that allows individuals to manage their finances without the need for probate or formalities."
+    },
+    {
+      "question": "What is the power of attorney?",
+      "answer": "The power of attorney is a written document that grants someone legal authority to act on behalf of another person."
+    },
+    {
+      "question": "What are the names of the two acts that govern transfers of assets to minors?",
+      "answer": [
+        "Uniform Transfers to Minors Act",
+        "Uniform Gifts to Minors Act"
+      ]
+    },
+    {
+      "question": "What are the details of other fiduciary accounts?",
+      "answer": "Not specified"
+    },
+    {
+      "question": "Who is your trusted contact person?",
+      "answer": ""
+    },
+    {
+      "question": "How do I use my checking or savings account?",
+      "answer": "Refer to your account agreement and contact customer support if needed."
+    },
+    {
+      "question": "How do I add money to my account?",
+      "answer": "Adding Money to Your Account (page 8)"
+    },
+    {
+      "question": "What are the two topics covered under Section 8?",
+      "answer": "[\"Direct deposits\", \"Endorsements\"]"
+    },
+    {
+      "question": "What are the endorsement requirements?",
+      "answer": "Endorsement requirements vary by country and type of license, but typically include a minimum number of hours of flight time, a specific number of takeoffs and landings, and passing a medical examination."
+    },
+    {
+      "question": "What are our rights and responsibilities regarding deposits?",
+      "answer": ""
+    },
+    {
+      "question": "What are transaction records and receipts?",
+      "answer": ""
+    },
+    {
+      "question": "What are the procedures for night depository and large cash deposits?",
+      "answer": ""
+    },
+    {
+      "question": "What are e electronically created items?",
+      "answer": "Electronically created items"
+    },
+    {
+      "question": "What are the two main topics discussed on page 9?",
+      "answer": "{\"topic\": \"Posting order\", \"description\": \"Discussion of posting order.\"}, {\"topic\": \"Pending transactions\", \"description\": \"Discussion of pending transactions.\"}"
+    },
+    {
+      "question": "What are overdrafts, fees and overdraft protection?",
+      "answer": ""
+    },
+    {
+      "question": "What is the consequence of presenting paying transactions against insufficient funds?",
+      "answer": "Your account will be overdrawn."
+    },
+    {
+      "question": "What is the purpose of an overdraft fee?",
+      "answer": "Overdraft fees are charged when a customer exceeds their available balance in their bank account."
+    },
+    {
+      "question": "What are the terms for electronic funds transfer service?",
+      "answer": "Payments, deposits and transfers you make or receive by electronic methods"
+    },
+    {
+      "question": "What types of EFT services are available?",
+      "answer": "Debit and credit card payments"
+    },
+    {
+      "question": "Can I use my ATM card to make electronic transfers?",
+      "answer": "No, you can only use it to withdraw cash or check your balance."
+    },
+    {
+      "question": "What types of financial activities are available for customers?",
+      "answer": "Digital Platforms, Telephone banking"
+    },
+    {
+      "question": "What is the process for transfers related to overdraft protection?",
+      "answer": "Transfers for overdraft protection are typically handled through the bank's customer service or online banking platform."
+    },
+    {
+      "question": "What are the authorizations and holds on my card?",
+      "answer": "Information regarding authorizations and holds can be found in section 12, subsection 2."
+    },
+    {
+      "question": "What are the consequences of having an outstanding overdraft on your credit card?",
+      "answer": "Overdrafts with your card can result in additional fees, negative credit reporting, and potential damage to your credit score."
+    },
+    {
+      "question": "Can you cancel a credit card?",
+      "answer": "Yes, you can cancel a credit card."
+    },
+    {
+      "question": "What are foreign exchange transactions?",
+      "answer": "Transactions that involve exchanging one country's currency for another."
+    },
+    {
+      "question": "What are debit and credit prompts used for at terminals?",
+      "answer": "To ensure secure transactions"
+    },
+    {
+      "question": "What is the value of the expression ...............",
+      "answer": "13"
+    },
+    {
+      "question": "What are the limits for ATM withdrawals, card purchases, and electronic funds transfers?",
+      "answer": "varies by location and type of account"
+    },
+    {
+      "question": "What are receipts and statements in relation to electronic fund transfers?",
+      "answer": "Receipts and statements refer to the documentation provided by a financial institution to confirm a transaction, such as a receipt for a payment or a statement showing account activity."
+    },
+    {
+      "question": "What is our liability for failure to complete transactions?",
+      "answer": "14 7"
+    },
+    {
+      "question": "What is the purpose of transferring funds?",
+      "answer": ""
+    },
+    {
+      "question": "What are my rights and liabilities?",
+      "answer": "Notice of your rights and liabilities."
+    },
+    {
+      "question": "What services are covered by this part?",
+      "answer": "All services not explicitly excluded by this section"
+    },
+    {
+      "question": "When can you withdraw funds you've deposited?",
+      "answer": ""
+    },
+    {
+      "question": "What types of transactions require special consideration when dealing with foreign currencies?",
+      "answer": "Large cash withdrawals and transactions in a foreign currency"
+    },
+    {
+      "question": "How do I stop payments on a check",
+      "answer": "Stop payments on a check by contacting your bank directly, providing your account information and the check number, and following their instructions."
+    },
+    {
+      "question": "What type of accounts require special information for transfers?",
+      "answer": "Account numbers"
+    },
+    {
+      "question": "Can landlords require advance notice of withdrawals?",
+      "answer": "No"
+    },
+    {
+      "question": "What type of check is rejected by Check Cashing?",
+      "answer": "Incomplete, future-dated, conditional or stale-dated check"
+    },
+    {
+      "question": "What is the meaning of the ellipsis in the text?",
+      "answer": "A series of dots indicating omission or elision in a written text, used to signify that certain words or phrases have been omitted for brevity or clarity."
+    },
+    {
+      "question": "What are the categories for facsimile signatures?",
+      "answer": "Facsimile signatures"
+    },
+    {
+      "question": "What is a substitute check?",
+      "answer": "A substitute check, also known as an accessory check, is a check that contains the same information as a primary check, but it does not directly draw against your account."
+    },
+    {
+      "question": "When You Don't Use Your Account",
+      "answer": "Inactive accounts"
+    },
+    {
+      "question": "What are dormant accounts?",
+      "answer": "Accounts that have not been accessed or updated for a certain period of time."
+    },
+    {
+      "question": "When is your deposit considered received?",
+      "answer": "Funds are generally available on the first business day after we receive your deposit."
+    },
+    {
+      "question": "For most accounts, what is the recommended length of a text message?",
+      "answer": "18"
+    },
+    {
+      "question": "What is the name of Chase Analysis Business Checking option with or without interest?",
+      "answer": "For Chase Analysis Business Checking (with or without Interest)"
+    },
+    {
+      "question": "What are the special rules for CDs, retirement CDs and retirement money market accounts?",
+      "answer": ""
+    },
+    {
+      "question": "What are the special rules for new accounts?",
+      "answer": "19 F."
+    },
+    {
+      "question": "What steps are taken to safeguard your information?",
+      "answer": "19 V."
+    },
+    {
+      "question": "What checks and other documents are used?",
+      "answer": "A. Checks and Other Documents"
+    },
+    {
+      "question": "What should you review on your account statements?",
+      "answer": "Checks and other errors"
+    },
+    {
+      "question": "What is the purpose of using trusted devices for my account?",
+      "answer": "To add an extra layer of security and protection to prevent unauthorized access."
+    },
+    {
+      "question": "What is interest rate on checking and savings accounts?",
+      "answer": "21 A"
+    },
+    {
+      "question": "What are statements and notices?",
+      "answer": "Statements and notices"
+    },
+    {
+      "question": "What does combined statement mean?",
+      "answer": "A combined statement is a sentence that contains two or more independent clauses joined by a conjunction, such as and, but, or, nor, for, so, or yet."
+    },
+    {
+      "question": "What are the options for receiving checks?",
+      "answer": "Linked accounts"
+    },
+    {
+      "question": "What is the meaning of ....................................................... 22",
+      "answer": "Not enough text provided"
+    },
+    {
+      "question": "What is the effective date of the deposit account agreement for JPMorgan Chase Bank, N.A.",
+      "answer": "6/14/2026"
+    },
+    {
+      "question": "What are the fees associated with my account?",
+      "answer": "Provisional and final deductions from your accounts, as well as interest charges"
+    },
+    {
+      "question": "What are account alerts?",
+      "answer": "Notifications about suspicious activity on your account."
+    },
+    {
+      "question": "What is the purpose of form 22G?",
+      "answer": "Change of Address"
+    },
+    {
+      "question": "How do I close my CD account?",
+      "answer": "Contact our customer service department to initiate the closure process."
+    },
+    {
+      "question": "What are the governing laws of your account?",
+      "answer": "24"
+    },
+    {
+      "question": "What does \"Restricting Your Account\" mean?",
+      "answer": "Blocking or delaying transactions from your account due to suspicious activity, excessive usage, or security concerns."
+    },
+    {
+      "question": "What changes affect the Agreement?",
+      "answer": "Changes to the Agreement"
+    },
+    {
+      "question": "What are prohibited activities and how should tax be reported?",
+      "answer": "Prohibited activities include those related to terrorism, money laundering, and other serious crimes. Tax reporting typically involves filing tax returns with the relevant authorities, providing accurate financial information, and adhering to all applicable laws and regulations."
+    },
+    {
+      "question": "What are the consequences for the bank?",
+      "answer": "Death or incompetence of account owner or sole signer, or adverse claims"
+    },
+    {
+      "question": "What is the purpose of authorization to share information?",
+      "answer": "Authorization to share information is used to determine who can access and share certain data, ensuring that sensitive information is handled securely."
+    },
+    {
+      "question": "What is the legal process for disputing information reported to a consumer reporting agency?",
+      "answer": ""
+    },
+    {
+      "question": "What does L stand for in Abandoned Property",
+      "answer": "Liens"
+    },
+    {
+      "question": "What are some common language preferences for people from different countries?",
+      "answer": "There is no one-size-fits-all answer, as language preferences can vary widely depending on individual circumstances."
+    },
+    {
+      "question": "What are special provisions for pass-through accounts?",
+      "answer": "Pass-through accounts refer to entities that allow the flow of tax-deductible contributions and expenses without incurring significant taxes at the entity level."
+    },
+    {
+      "question": "What is the permitted time for filing a lawsuit?",
+      "answer": "Sub-accounts"
+    },
+    {
+      "question": "What are the specific details required for pre-judgment interest rate in a contract?",
+      "answer": "27 S. Pre-judgment Interest Rate............................................................................................................................................... 27 T. Assignment of Agreement and Successors"
+    },
+    {
+      "question": "Is there a waiver for university students?",
+      "answer": "No"
+    },
+    {
+      "question": "What is the name of a federal law that sets standards for pension and health plans?",
+      "answer": "Employee Retirement Income Security Act (ERISA)"
+    },
+    {
+      "question": "What personal information is collected by this website?",
+      "answer": "User IP address, Browser type and version, Device type and operating system, Location based on IP address, Cookies IDFAC,"
+    },
+    {
+      "question": "What does the Deposit Account Agreement govern?",
+      "answer": "Your account."
+    },
+    {
+      "question": "What is the purpose of this document for personal or business deposit accounts with JPMorgan Chase Bank?",
+      "answer": "This document outlines the basic agreement between you and JPMorgan Chase Bank."
+    },
+    {
+      "question": "What are the terms of the deposit account service agreement?",
+      "answer": "You and anyone else identified as an owner of the account agree to the terms in this Agreement."
+    },
+    {
+      "question": "What are the exceptions to this agreement?",
+      "answer": "Products like credit cards and online banking or retirement accounts are not governed by this agreement."
+    },
+    {
+      "question": "What happens in case of an irreconcilable conflict between the terms of this Agreement and any applicable Chase agreements and/or terms of service?",
+      "answer": "The terms of this Agreement will control unless otherwise explicitly stated."
+    },
+    {
+      "question": "What kind of information may be disclosed by [your company name]?",
+      "answer": "product information, rate information, banking services and fees, and other disclosures, agreements, and amendments."
+    },
+    {
+      "question": "What differences in products and services, along with fees and other terms, can I expect when comparing accounts across different geographic locations?",
+      "answer": "Products and services as well as associated fees, charges, interest rates and balance requirements may differ among different geographic locations."
+    },
+    {
+      "question": "What does the term \"Account\" refer to in this Agreement?",
+      "answer": "Any deposit account, such as a checking or savings account, you have with us that is covered by this Agreement."
+    },
+    {
+      "question": "What is the available balance in my ATM account?",
+      "answer": "The amount of money in your account that you can use right now."
+    },
+    {
+      "question": "What is the formula for calculating my available balance?",
+      "answer": "Previous end of day balance + Pending credit transactions - Pending debit transactions"
+    },
+    {
+      "question": "What is included in a transaction?",
+      "answer": "Transactions include deposits that are not available yet for withdrawal, and any holds on your account."
+    },
+    {
+      "question": "What is the definition of a check?",
+      "answer": "A written order to pay a specific amount of money drawn on, payable through, payable at or processed by a bank or other depository institution."
+    },
+    {
+      "question": "What is considered a debit card transaction?",
+      "answer": "Any purchase or bill payment using your debit card"
+    },
+    {
+      "question": "What does forms refer to in the context of J.P. Morgan Chase?",
+      "answer": "The J.P. Morgan Chase suite of digital online properties"
+    },
+    {
+      "question": "What is direct deposit?",
+      "answer": "An automatic electronic deposit made through the ACH network to your account by someone else, such as an employer issuing payroll or a government paying benefits."
+    },
+    {
+      "question": "What types of transactions can affect my account balance?",
+      "answer": "Any check, ACH, funds transfer, online banking transaction, wire transfer, teller cash withdrawal, ATM withdrawal, debit card purchase, fee, charge or other instruction for an amount to be added to or subtracted from your balance."
+    },
+    {
+      "question": "Is my debit card considered overdrawn?",
+      "answer": "yes"
+    },
+    {
+      "question": "What is the current balance in my account?",
+      "answer": "The total amount of money recorded in your account, including funds not yet available for you to use."
+    },
+    {
+      "question": "What are the restrictions on using my personal account for business purposes?",
+      "answer": "You are not allowed to use it for business purposes"
+    },
+    {
+      "question": "Does the most current signature card match the deposit system?",
+      "answer": "No"
+    },
+    {
+      "question": "What is this information?",
+      "answer": ""
+    },
+    {
+      "question": "What happens to an account when only one individual is listed as the owner?",
+      "answer": "The account will be treated as a solely owned account."
+    },
+    {
+      "question": "What type of account allows multiple individuals to have complete control over the funds?",
+      "answer": "A joint account"
+    },
+    {
+      "question": "Can you block an account that was initiated by a different joint owner?",
+      "answer": "We are not required to do so, but we will refuse to pay all transactions, including those initiated by the owner making the request."
+    },
+    {
+      "question": "Can a request to unblock an account affect previously completed transactions?",
+      "answer": "No"
+    },
+    {
+      "question": "Can any joint owner close the account on their own?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Can we withdraw joint account funds without the permission of other joint owners?",
+      "answer": "Yes, we may pay all or part of the funds in the joint account to a court or government agency if we receive a garnishment, levy or similar legal process that identifies any of the joint owner"
+    },
+    {
+      "question": "",
+      "answer": ""
+    },
+    {
+      "question": "What happens to a joint account when one of its owners dies?",
+      "answer": "The account ownership is transferred to the surviving joint owners."
+    },
+    {
+      "question": "What happens to a joint account with rights of survivorship?",
+      "answer": "The account continues as a joint account with rights of survivorship among the remaining owners."
+    },
+    {
+      "question": "What happens to an interest in a joint account without rights of survivorship when one joint owner dies?",
+      "answer": "The deceased owner's interest passes to the owner's estate."
+    },
+    {
+      "question": "What are the implications of designating an account as 'Tenants in common' or 'JTIC'?",
+      "answer": "This type of account does not have rights of survivorship."
+    }
+  ]
+}
