@@ -1,0 +1,935 @@
+{
+  "responses": [
+    {
+      "question": "What is a certificate of deposit (CD)?",
+      "answer": "A deposit account with us for a specified term."
+    },
+    {
+      "question": "What happens to the principal when a CD is opened?",
+      "answer": "You must keep it on deposit."
+    },
+    {
+      "question": "What happens if there is a remaining balance in the CD account after subtracting the returned check?",
+      "answer": "The balance stays open with a reduced amount."
+    },
+    {
+      "question": "What is the standard minimum deposit amount to open a U.S. dollar-denominated CD?",
+      "answer": "The standard minimum deposit amount varies by bank, but it is typically around $500-$2,500."
+    },
+    {
+      "question": "What are the terms for CDs?",
+      "answer": "The term is the number of days, months or years you agree to leave your money in the account."
+    },
+    {
+      "question": "What are the grace periods for CDs based on their term length?",
+      "answer": "For CDs with a term of 7-13 days, the grace period is 5 days after the maturity date. For CDs with a term of 14 days or longer, the grace period is 10 days after the maturity date."
+    },
+    {
+      "question": "Can I make changes to my CD during the grace period or before maturity date?",
+      "answer": true
+    },
+    {
+      "question": "What happens when each CD matures in a 12-month ladder?",
+      "answer": "Its term will change to the longest term of the original group."
+    },
+    {
+      "question": "What is the term of an automatically renewable CD?",
+      "answer": "the same term"
+    },
+    {
+      "question": "What happens if my CD renewal term changes as part of a CD ladder?",
+      "answer": "If you have a different renewal term as part of a CD ladder."
+    },
+    {
+      "question": "What happens to my CD if it is closed during the grace period?",
+      "answer": "It will not earn interest on or after the maturity date."
+    },
+    {
+      "question": "Will my CD automatically renew at maturity?",
+      "answer": "No, it will not."
+    },
+    {
+      "question": "What is the frequency used to calculate interest on business CDs?",
+      "answer": "A 365-day basis"
+    },
+    {
+      "question": "What happens to the interest earned on a CD if it is not withdrawn before maturity?",
+      "answer": "The interest earned on a CD remains on deposit until maturity, with a minimum annual payment at maturity for maturities of more than one year."
+    },
+    {
+      "question": "What happens to interest when a CD is renewed?",
+      "answer": "Interest will become principal of the renewed CD."
+    },
+    {
+      "question": "What happens when a CD term is 24 months or more?",
+      "answer": "The early withdrawal penalty is 180 days of interest on the amount withdrawn, but not more than the total amount of interest earned during the current term of the CD."
+    },
+    {
+      "question": "What is the rule for withdrawing money from a CD?",
+      "answer": "You can withdraw up to 365 days of interest, but not more than the total amount of interest earned during the current term."
+    },
+    {
+      "question": "What is the minimum duration for an early withdrawal penalty?",
+      "answer": "seven days"
+    },
+    {
+      "question": "What is the formula for calculating the early withdrawal penalty on a CD?",
+      "answer": "$25 + 1% of the amount withdrawn (less than 12 months) or $25 + 3% of the amount withdrawn (12 months or more)"
+    },
+    {
+      "question": "Can I withdraw my money without a penalty if it hasn",
+      "answer": "permits withdrawals if funds have not been credited to the account"
+    },
+    {
+      "question": "What are valid reasons for withdrawals from non-retirement CDs?",
+      "answer": "[\"Death of a CD owner or a grantor of a revocable family/living trust\", \"Disability of a CD owner\"]"
+    },
+    {
+      "question": "Can a CD be re-titled to transfer ownership of funds into a living trust without transferring funds from the bank?",
+      "answer": "Yes"
+    },
+    {
+      "question": "What happens when a 401(k) or 403(b) plan owner withdraws an excess annual retirement contribution?",
+      "answer": "The excess amount, along with the earnings on that amount, will be returned to the plan."
+    },
+    {
+      "question": "What is waived regarding early withdrawal penalties for retirement CDs?",
+      "answer": "early withdrawal penalties"
+    },
+    {
+      "question": "When must an early withdrawal be made from a retirement CD?",
+      "answer": "In relation to the CD opening or a previous withdrawal, death or disability of a retirement CD owner, a court's determination that a retirement CD owner is incompetent, or if the retirement CD owner is 51.5 years old."
+    },
+    {
+      "question": "Is waiving early withdrawal of penalties for distributions from a traditional IRA allowed?",
+      "answer": "No"
+    },
+    {
+      "question": "What is exempt from withdrawal penalties for a business CD owned by a sole proprietorship?",
+      "answer": "Withdrawals that occur more than seven days after the account was opened"
+    },
+    {
+      "question": "What are the circumstances under which a CD can be withdrawn?",
+      "answer": "[\"Death of a CD owner or a grantor of a revocable family/living trust\", \"Disability of a CD owner\", \"A court\u2019s determination that a CD owner is incompetent\", \"Re-titling of a CD to transfer ownership of funds into a living trust\"]"
+    },
+    {
+      "question": "Can an account be closed by either party without prior notice?",
+      "answer": "No"
+    },
+    {
+      "question": "What are the consequences for an overdrawn bank account?",
+      "answer": "The account is subject to legal process such as garnishment, attachment, execution or levy and may also be held due to type of holds such as collateral hold, decedent hold or deposit hold."
+    },
+    {
+      "question": "What restrictions are placed on my account during the pre-restriction period?",
+      "answer": "Limitation of transaction types, waiting for pending transactions to be paid or returned, ensuring balance is no longer negative and any legal restriction/hold has been released."
+    },
+    {
+      "question": "What happens to my account after it is closed?",
+      "answer": "We have no obligation to accept deposits or pay any outstanding checks, but we may reopen your account if we receive a deposit."
+    },
+    {
+      "question": "Can I still get credit if my account is closed due to misuse?",
+      "answer": "No"
+    },
+    {
+      "question": "What does the agreement govern regarding my account?",
+      "answer": "Federal law"
+    },
+    {
+      "question": "Where can I find my account information?",
+      "answer": "king offices, then the account is located in the state where you applied"
+    },
+    {
+      "question": "If my account is opened at a later time, what state will my account be located in?",
+      "answer": "the state where the representative\u2019s business office is located"
+    },
+    {
+      "question": "What information from a joint account is used to determine its location?",
+      "answer": "the address of the owner whose name was listed first."
+    },
+    {
+      "question": "Where should business trust accounts for professionals be located?",
+      "answer": "Designated state"
+    },
+    {
+      "question": "Can my account transactions be affected by external rules?",
+      "answer": "Yes, they can."
+    },
+    {
+      "question": "What happens if there is a conflict between this Agreement and what an employee says about it?",
+      "answer": "We may comply with applicable law or regulation."
+    },
+    {
+      "question": "What provisions of this Agreement limit the bank's liability?",
+      "answer": "Any provision that does so."
+    },
+    {
+      "question": "What limitations are there on the bank's liability under this agreement?",
+      "answer": "Any such limitation shall be enforceable to the fullest extent permitted by applicable law."
+    },
+    {
+      "question": "What are tomary banking practices liable for in case of damages?",
+      "answer": "Indirect, special, or consequential damages"
+    },
+    {
+      "question": "What is the liability limit for forged signatures or endorsements?",
+      "answer": "The face amount of the item"
+    },
+    {
+      "question": "Can JPMorgan Chase Bank, N.A. deny or delay transactions from my account?",
+      "answer": "Yes, for various reasons including restrictions on your account, blocking or delaying transactions."
+    },
+    {
+      "question": "What is the reason for restricting my account?",
+      "answer": "To protect you or us, or to comply with legal requirements or Legal Process."
+    },
+    {
+      "question": "Can I refuse or have funds frozen on my account?",
+      "answer": "Yes, you can, but these actions may be subject to investigation."
+    },
+    {
+      "question": "What are the circumstances under which my account may be involved in a legal or administrative proceeding?",
+      "answer": "If your account is involved in any legal or administrative proceeding."
+    },
+    {
+      "question": "What kind of transactions may be involved in a case of suspected account ownership or control issues?",
+      "answer": "Irregular or unauthorized activities"
+    },
+    {
+      "question": "What types of activities are we not allowed to engage in?",
+      "answer": "unauthorized, or illegal activity or may be fraudulent; We are complying in our sole discretion with any federal, state or local law, rule or regulation, including federal asset control and sanction rules and anti-money laundering rules, or with our policies."
+    },
+    {
+      "question": "What are the policies adopted to ensure compliance with laws and regulations?",
+      "answer": "Policies adopted to ensure that we comply with those laws, rules or regulations; or We reasonably believe that doing so is necessary to avoid a loss or reduce risk to us."
+    },
+    {
+      "question": "What are the acceptable methods for reducing risk and enhancing compliance with applicable law regarding account transactions?",
+      "answer": "Making a single transaction or total withdrawals or deposits during any period of time, or who may make deposits."
+    },
+    {
+      "question": "Can you refuse to pay out money from an account upon someone's death?",
+      "answer": "yes"
+    },
+    {
+      "question": "What is the potential liability for estate tax, gift tax, and other taxes, as well as when a hold can be placed on an account?",
+      "answer": "Potential liability for any estate tax, gift tax or other tax; or upon receipt of oral or written notice of a claim regarding the account, until we have a court order or the written consent of all required parties."
+    },
+    {
+      "question": "What does the agreement require reimbursement for expenses and attorneys' fees?",
+      "answer": "Reasonable attorneys' fees incurred due to a dispute, including disputes without litigation."
+    },
+    {
+      "question": "What happens if there is a dispute over the actions taken on my account?",
+      "answer": "We may assign and transfer your account information and documentation to a replacement account number at our discretion and without notice to you."
+    },
+    {
+      "question": "What happens if my account is reported compromised or I need a replacement account number?",
+      "answer": "We may issue a replacement account number, and the Agreement continues to apply"
+    },
+    {
+      "question": "Can you be held liable for actions taken after discontinuing an account number?",
+      "answer": "We will have no liability for any action we take under this section and/or related sections, and we may take such action without advance notice."
+    },
+    {
+      "question": "What are the possible reasons for changes to the terms of this Agreement?",
+      "answer": "We may change the terms of this Agreement, including fees and features of your account, at any time."
+    },
+    {
+      "question": "What steps should I take if there are changes to our Agreement?",
+      "answer": "You can review and update the Agreement online at chase.com, in-person at a branch, or upon request by phone."
+    },
+    {
+      "question": "What happens when my CD account is transferred to a different business unit?",
+      "answer": "Changes will take effect on the next maturity date unless necessary for compliance with legal requirements."
+    },
+    {
+      "question": "What is the procedure for receiving notice of changes to the deposit agreement?",
+      "answer": "You can give notice in the same manner and receive a different deposit agreement."
+    },
+    {
+      "question": "What is the notification process for changes in interest rates and printing fees for documents?",
+      "answer": "We may direct you to a branch or our Digital Platforms for the content of any changes or the revised Agreement."
+    },
+    {
+      "question": "What constitutes agreement to changes in this agreement?",
+      "answer": "Maintaining your account after the effective date of any change."
+    },
+    {
+      "question": "What personal information does a financial institution need to obtain, verify, and record when opening an account?",
+      "answer": "Information that identifies each person or business, as required by federal law."
+    },
+    {
+      "question": "What is required by the business for Know Your Customer",
+      "answer": "Additional information about yourself and associates, to ensure compliance with regulatory requirements"
+    },
+    {
+      "question": "What happens if I open an account with you and cannot provide required information?",
+      "answer": "You must close your account."
+    },
+    {
+      "question": "What prohibited activities are subject to U.S. Department of the Treasury, Office of Foreign Asset Control restrictions?",
+      "answer": "Conducting transactions using an account administered or enforced by the U.S. Department of the Treasury, Office of Foreign Asset Control."
+    },
+    {
+      "question": "What is EFT?",
+      "answer": "The acceptance or receipt of credit or other receipt of funds through an electronic funds transfer, or by check, draft or similar instrument."
+    },
+    {
+      "question": "What type of transactions is a user prohibited from conducting through their account?",
+      "answer": "Transactions that directly or indirectly involve or relate to unlawful Internet gambling."
+    },
+    {
+      "question": "Is it illegal to gamble online?",
+      "answer": "Yes, using our service for other illegal activities is prohibited."
+    },
+    {
+      "question": "Can a reasonably believable scenario involve illegal activity?",
+      "answer": "Yes"
+    },
+    {
+      "question": "What is the responsibility of the account holder regarding their tax obligations?",
+      "answer": "You are fully responsible."
+    },
+    {
+      "question": "What information can be withheld from tax authorities?",
+      "answer": "None"
+    },
+    {
+      "question": "What documents are required for legal and tax compliance in a foreign country?",
+      "answer": "Lete and accurate, including any information pertaining to your country of citizenship, residence, principal place of business and any other relevant information to determine legal and tax status."
+    },
+    {
+      "question": "What information regarding tax affairs can be requested from you to comply with regulatory obligations?",
+      "answer": "Information related to your tax affairs as we may request in order to comply with our regulatory obligations."
+    },
+    {
+      "question": "What happens to my account balance if the owner dies or becomes incompetent?",
+      "answer": "The balance may be frozen, transactions may be refused, and deposits may be reversed or returned."
+    },
+    {
+      "question": "What are the requirements for releasing funds after verifying death or incompetence?",
+      "answer": "Release of funds requires documentation and confirmation of death/incompetence and entitlement"
+    },
+    {
+      "question": "Can an authorized account owner be held liable for taxes if they repay a debt to their estate?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Can an individual be forced to pay off debts from their estate after they pass away?",
+      "answer": "Yes, according to some laws, if an individual owes a debt at the time of their death, their estate may be held responsible for paying it."
+    },
+    {
+      "question": "What happens to debt and security interests when someone dies?",
+      "answer": "The debts and security interests continue, even after death, affecting the survivor's accounts."
+    },
+    {
+      "question": "Can a trustee for an account have rights to the account after receiving notice of death or incompetence of the sole signer?",
+      "answer": "Yes"
+    },
+    {
+      "question": "What is the process for releasing an organization's funds after the signer's death or incompetence?",
+      "answer": "Releasing an organization's funds requires verification documents for the signer's death or incompetence, and establishment of a new person's authority to act on behalf of the organization."
+    },
+    {
+      "question": "What happens if there are disputes or conflicting instructions regarding my account?",
+      "answer": "We may take any action, including rejecting or returning a transaction."
+    },
+    {
+      "question": "Can we withhold funds from someone without their consent?",
+      "answer": "yes"
+    },
+    {
+      "question": "What are the conditions under which a party can initiate a claim?",
+      "answer": "n of the dispute; (ii) or a court of proper jurisdiction authorizes or directs the payment; or (iii) the person with a conflicting claim withdraws his or her claim in writing."
+    },
+    {
+      "question": "What is an interpleader action and when can it be taken?",
+      "answer": "An interpleader action is a legal procedure that allows a person to resolve a dispute over ownership of assets before deciding whether to take further action. If someone notifies the party in question of a dispute, regardless of whether it's oral or written, they are not required to evaluate the merit of the dispute before proceeding."
+    },
+    {
+      "question": "What are the terms for sharing user information?",
+      "answer": "These actions are done without any liability and without advance notice, unless the law says otherwise."
+    },
+    {
+      "question": "Can we share personal data?",
+      "answer": "No, according to our Privacy Notice and CCPA Disclosure and Notice."
+    },
+    {
+      "question": "Can I dispute inaccurate information on my credit report?",
+      "answer": "Yes, you can file a dispute with the consumer reporting agency."
+    },
+    {
+      "question": "What is legal process?",
+      "answer": "Any document that appears to have the force of law regarding restricting, holding or paying out funds from your account."
+    },
+    {
+      "question": "What is the definition of legal process?",
+      "answer": "A garnishment, attachment, execution, levy or similar order."
+    },
+    {
+      "question": "Do I have a responsibility to consult with an attorney and/or initiate legal proceedings?",
+      "answer": "yes"
+    },
+    {
+      "question": "What are my rights if the legal process is disputed or I want to claim additional exemptions?",
+      "answer": "You will be contacted by our team and informed about the next steps."
+    },
+    {
+      "question": "What are the deadlines for seeking judicial relief in Legal Process?",
+      "answer": "Within the deadlines provided for in the Legal Process"
+    },
+    {
+      "question": "Do we need to verify the validity of a legally issued and enforceable process?",
+      "answer": "No, we only have to comply with it."
+    },
+    {
+      "question": "Can the company be held liable if it follows the legal process or is allowed under this agreement?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Can I request my accounts to be relinked if an overdraft protection hold is placed?",
+      "answer": "Yes, as permitted by law"
+    },
+    {
+      "question": "What happens if I don",
+      "answer": "You will be liable to us for any loss, cost or expense (including attorneys' fees that we incur) resulting from our compliance with any Legal Process or any related litigation."
+    },
+    {
+      "question": "What happens to funds that cannot be returned or transferred in an account?",
+      "answer": "They may be considered abandoned."
+    },
+    {
+      "question": "What is the purpose of making sure my accounts remain active?",
+      "answer": "to receive regular statements, have full use of your accounts, and avoid any penalties or issues"
+    },
+    {
+      "question": "Will my account assets be transferred to the state as unclaimed property?",
+      "answer": "We will send you a letter in advance if your account assets may be transferred to the state as unclaimed property."
+    },
+    {
+      "question": "What is the effective date of the Deposit Account Agreement for JPMorgan Chase Bank, N.A.?",
+      "answer": "6/14/2026"
+    },
+    {
+      "question": "What types of forms and documents are made available in languages other than English?",
+      "answer": "Some of our forms, disclosures and documents, including this Agreement."
+    },
+    {
+      "question": "What language versions are supported for the account",
+      "answer": "Only English"
+    },
+    {
+      "question": "Can employees share contact information for third-party vendors with company clients?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Can I trust that your service will not refer me to a third-party without making any guarantees about their quality?",
+      "answer": "No, we may be compensated for referrals and do not make warranties or representations about third parties or their products/services."
+    },
+    {
+      "question": "Are Chase products based on third parties' performance?",
+      "answer": "No"
+    },
+    {
+      "question": "Can beneficial owners of a holding company be eligible for 'pass-through' insurance from the FDIC?",
+      "answer": "Yes, they may be able to qualify for more than the standard maximum deposit insurance amount."
+    },
+    {
+      "question": "Can I get a record of the interests of the beneficial owner(s) if my account has transactional features?",
+      "answer": "$250,000 per depositor in the same ownership capacity"
+    },
+    {
+      "question": "What is the process for resolving issues with a failed Chase deposit?",
+      "answer": "The FDIC published a guide detailing the steps and required information to follow in case of a failed Chase deposit, available on their website at https://www.fdic.gov/deposit/deposits/broker"
+    },
+    {
+      "question": "What are the FDIC's alternative recordkeeping requirements for pass-through insurance?",
+      "answer": "The FDIC published an Addendum to the guide, section VIII, which explains these requirements."
+    },
+    {
+      "question": "What types of deposit accounts are eligible for pass-through insurance coverage under the FDIC?",
+      "answer": "Transactional deposit accounts"
+    },
+    {
+      "question": "What is the required format for providing records to the FDIC upon bank failure?",
+      "answer": "You must provide this information in a timely manner to receive payment for the insured amount of pass-through deposit insurance."
+    },
+    {
+      "question": "Can you provide detailed guidance on delivering required information for timely calculation of deposit insurance coverage?",
+      "answer": "You will receive additional instructions."
+    },
+    {
+      "question": "What are my obligations regarding the determination of insured status of funds in accounts?",
+      "answer": "You agree to cooperate fully with us and the FDIC in connection with determining the insured status of funds in such accounts at any time."
+    },
+    {
+      "question": "What happens to my account immediately after a receiver is appointed?",
+      "answer": "A hold will be placed on your account."
+    },
+    {
+      "question": "Can I avoid being held or frozen for not providing required data?",
+      "answer": "No, if you do not provide the required data, your account may be held or frozen until the information is received."
+    },
+    {
+      "question": "How do two types of sub-accounts (transaction and savings) work?",
+      "answer": "A transaction sub-account posts all deposits, withdrawals, and fees; a savings holding sub-account transfers balances above a certain level daily, with excess funds retransferred to the transaction s "
+    },
+    {
+      "question": "What happens to balances in the holding sub-account when a certain condition is met?",
+      "answer": "All balances will be transferred to the transaction sub-account"
+    },
+    {
+      "question": "What is the permitted time frame for filing a lawsuit against you?",
+      "answer": "Two years after the date of the incident."
+    },
+    {
+      "question": "What is the general rule regarding the time period for a cause of action?",
+      "answer": "The cause of action arises, unless federal or state law or an applicable agreement provides for a shorter time."
+    },
+    {
+      "question": "What is the minimum timeframe for filing a lawsuit under the state's laws?",
+      "answer": "Two years"
+    },
+    {
+      "question": "What is the timeframe for bringing an action against the party being referred to as 'us'?",
+      "answer": "within the period set forth in these laws and the period required by applicable law, but not less than the shortest of those periods"
+    },
+    {
+      "question": "What is the timeframe for bringing an action against a company on a CD, and when do they need to preserve records?",
+      "answer": "Any action against us on an automatically renewable CD must be brought within the time that the law requires us to preserve records based on the stated maturity date in the most recent record of the CD."
+    },
+    {
+      "question": "What are the terms for filing a lawsuit or legal proceeding related to my account?",
+      "answer": "You must file it in an appropriate court in the state where your account is located."
+    },
+    {
+      "question": "Does connecting with our accounts or services imply consent to be bound by jurisdiction and venue laws in the state where the account is located?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Does 'olging Disputes' grant immunity to a party from jurisdiction of any court?",
+      "answer": "No"
+    },
+    {
+      "question": "Can I waive my legal immunity for any obligation related to this contract?",
+      "answer": "Yes, but only up to a limited amount as required by law."
+    },
+    {
+      "question": "Do waivers under the Foreign Sovereign Immunities Act of 1976 have the fullest extent permitted, and are they intended to be irrevocable?",
+      "answer": "Yes"
+    },
+    {
+      "question": "What is the rate of interest earned on an account?",
+      "answer": "The rate of interest earned on an account will be the rate of interest the account earned during that period, unless"
+    },
+    {
+      "question": "What is the lowest general rate available for a personal interest-bearing checking account if an account is not interest-bearing?",
+      "answer": "the lowest generally available rate"
+    },
+    {
+      "question": "What is the effective date for this Deposit Account Agreement?",
+      "answer": "June 14, 2026"
+    },
+    {
+      "question": "Can we assign, transfer or grant a security interest in my account to anyone other than you?",
+      "answer": "No"
+    },
+    {
+      "question": "What are the conditions under which a binding agreement is considered valid?",
+      "answer": "We will not be considered to have knowledge of an assignment until we consent and note it in our records, but noting the assignment does not imply any responsibility for its validity."
+    },
+    {
+      "question": "What are my account assignment rights?",
+      "answer": "Ed: The assignment of your account is subject to our set-off rights."
+    },
+    {
+      "question": "What accounts are not considered qualified employer-sponsored retirement or welfare benefit plans under the Employee Retirement Income Security Act (ERISA)?",
+      "answer": "Accounts opened on or after July 1, 2013"
+    },
+    {
+      "question": "What types of employee benefit plans are subject to ERISA?",
+      "answer": "[\"ERISA Plan\", \"state and local laws with substantially similar requirements\"]"
+    },
+    {
+      "question": "Can an ERISA plan invest in a particular entity?",
+      "answer": "No, but you can provide additional information if needed."
+    },
+    {
+      "question": "What is the method of dispute resolution used when an election occurs?",
+      "answer": "Binding arbitration"
+    },
+    {
+      "question": "Can I opt out of arbitration under this agreement?",
+      "answer": "YES, YOU HAVE A RIGHT TO OPT OUT OF THIS AGREEMENT TO ARBITRATE."
+    },
+    {
+      "question": "Are you and the company waiving your right to have a dispute heard by a judge or jury?",
+      "answer": "Yes"
+    },
+    {
+      "question": "What claims or disputes are subject to arbitration?",
+      "answer": "Claims or disputes not explicitly excluded by the agreement are subject to arbitration."
+    },
+    {
+      "question": "What types of disputes are covered under the terms?",
+      "answer": "Disputes related to legal issues, deposits, and transactions"
+    },
+    {
+      "question": "Are all transactions, including products, services, and agreements, subject to arbitration?",
+      "answer": "Yes"
+    },
+    {
+      "question": "What disputes and claims are excluded from coverage under this agreement?",
+      "answer": "Claims arising from or relating in any way to this agreement, prior account agreement, advertising of our products, or the application for, or the denial, approval or establishment of your account."
+    },
+    {
+      "question": "What legal claims are excluded from arbitration under this provision?",
+      "answer": "Any legal issue not within the scope of this arbitration provision"
+    },
+    {
+      "question": "What kind of disputes are referred to as 'Claims' in this section?",
+      "answer": "Disputed factual or legal issues, whether they arose in the past, may currently exist, or may arise in the future."
+    },
+    {
+      "question": "Can both parties pursue a claim in small claims court if it falls within the court's jurisdiction?",
+      "answer": "Yes, they can."
+    },
+    {
+      "question": "Can I (customer) cancel or opt out of this arbitration provision in the agreement?",
+      "answer": "Yes, you have the right to opt out of this agreement to arbitrate if"
+    },
+    {
+      "question": "How can I opt out of an account within sixty (60) days of opening it?",
+      "answer": "By calling us at 1-800-935-9935."
+    },
+    {
+      "question": "What is the time limit for opting out of an account agreement?",
+      "answer": "More than 60 days after opening your account."
+    },
+    {
+      "question": "Does this agreement to arbitrate still apply even if the account is closed, all debt is paid, or a bankruptcy is filed?",
+      "answer": "Yes"
+    },
+    {
+      "question": "If I opt out of this agreement to arbitrate, does my decision only apply to this specific arbitration agreement?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Are class actions or representative actions allowed to proceed in arbitration proceedings?",
+      "answer": "No"
+    },
+    {
+      "question": "Are we agreeing not to seek to proceed on any class claim or consolidation?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Can I bring a class action or seek an award in arbitration against individuals not part of the named parties?",
+      "answer": "No"
+    },
+    {
+      "question": "If a claim is made that requires the arbitrator to grant relief, are they prohibited from doing so?",
+      "answer": "FOR THE AVOIDANCE OF DOUBT"
+    },
+    {
+      "question": "What does the phrase \u201cAre class action or representative proceedings\u201d mean in the context of JPMorgan Chase Bank, N.A.'s DEPOSIT ACCOUNT AGREEMENT?",
+      "answer": "Class actions or representative proceedings are lawsuits where a single person, known as the representative, brings a claim on behalf of a larger group of people affected by a common issue."
+    },
+    {
+      "question": "Is it allowed to proceed in arbitration proceedings?",
+      "answer": "No, decisions should be made by a court rather than an arbitrator."
+    },
+    {
+      "question": "What are the conditions under which claims must go through arbitration instead of litigation?",
+      "answer": "All claims or requests for relief that are legally enforceable must be filed and adjudicated in arbitration."
+    },
+    {
+      "question": "Can arbitration replace litigation in a court case?",
+      "answer": "No, claims for which arbitration is not legally enforceable must go to court."
+    },
+    {
+      "question": "What happens to court decisions after arbitration is completed?",
+      "answer": "The court will not be bound by the arbitrator's determination when litigation resumes."
+    },
+    {
+      "question": "If the prohibition on an award of public injunctive relief is deemed unenforceable, what happens next?",
+      "answer": "The request for public injunctive relief will then be decided through litigation in a court after other claims seeking different relief have been adjudicated in arbitration."
+    },
+    {
+      "question": "Can an arbitrator make an award on behalf of a non-party individual?",
+      "answer": "No"
+    },
+    {
+      "question": "What are the requirements for a third party to be included as a party in an arbitration?",
+      "answer": "it must be named and comply with the rules of procedure governing the arbitration"
+    },
+    {
+      "question": "What does it mean to be part of the JPMorgan Chase Bank, N.A. account?",
+      "answer": "You include anyone listed on your account or claiming a right or interest in your account, and we include JPMorgan Chase Bank, N.A., its affiliates, and third-party beneficiaries."
+    },
+    {
+      "question": "What constitutes the scope of this agreement regarding third parties and claims?",
+      "answer": "Parties regarded as agents or representatives of ours in connection with a claim, including unaffiliated third parties to whom we assign an account."
+    },
+    {
+      "question": "How does arbitration work?",
+      "answer": "Arbitrations between us shall be administered by the American Arbitration Association (\u201cAAA\u201d). AAA shall apply its Consumer Arbitration Rules in effect at the time the arbitration proceeding is initiated.\u2009\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\r\nArbitrations between us shall be administered by the American Arbitration Association (\u201cAAA\u201d).\u2009\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\r\nAAA shall apply its Consumer Arbitration Rules in effect at the time the arbitration proceeding is initiated.\u2009\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\r\n"
+    },
+    {
+      "question": "What is the current rule for mass arbitration?",
+      "answer": "The Mass Arbitration Supplementary Rules are currently available at https://www.adr.org/sites/default/files/Mass_Arbitration_Supplementary_Rules.pdf. A single arbitrator shall conduct procedure."
+    },
+    {
+      "question": "What arbitrators will conduct each mass arbitration case under the AAA rules?",
+      "answer": "A Process Arbitrator and single Merits Arbitrator"
+    },
+    {
+      "question": "What happens if AAA cannot handle the claim?",
+      "answer": "The matter will be arbitrated by a neutral arbitrator."
+    },
+    {
+      "question": "What are the grounds for an arbitrator to decide dispositive issues of law in a dispute between parties?",
+      "answer": "The Parties agree that, upon motion by either of us, any arbitrator shall have the power to decide dispositive issues of law pursuant to the AAA rules of procedure."
+    },
+    {
+      "question": "What is the basis for deciding the claim in this case?",
+      "answer": "Consistent with Federal Rules of Civil Procedure 12 and 56, and will decide the Claim in accordance with all applicable substantive law."
+    },
+    {
+      "question": "What does the arbitration clause require the arbitrator to consider when awarding damages or relief?",
+      "answer": "The principles of equity, privilege recognized by law, and the terms of the agreement."
+    },
+    {
+      "question": "What are the confidentiality terms for pleadings, information, and documents in arbitration?",
+      "answer": "All pleadings, information and documents exchanged, and the arbitrator's ruling shall be treated as confidential and have no precedential value. However, if either Party seeks to confirm"
+    },
+    {
+      "question": "Is the arbitrator's decision final?",
+      "answer": "No, unless appealed pursuant to the terms in this section."
+    },
+    {
+      "question": "What are the consequences of an arbitration ruling?",
+      "answer": "The ruling will be final, binding, and enforceable by any court having jurisdiction."
+    },
+    {
+      "question": "What are the grounds for appealing an arbitration award?",
+      "answer": "A party may only appeal on the grounds that the Arbitration Award is based upon an error of law that is material and prejudicial (reviewed de novo) and/or"
+    },
+    {
+      "question": "What appeals can be made to a tribunal in a dispute?",
+      "answer": "A determination of facts that are erroneous (reviewed for clear error), solely based on the record before the arbitrator."
+    },
+    {
+      "question": "Who will pay for costs in a situation where the appeal tribunal orders a stay of proceedings, such that no arbitration has taken place?",
+      "answer": "Each Party will be responsible for the arbitration costs as allocated by the applicable Arbitration Rules."
+    },
+    {
+      "question": "How do I file an appeal after being ruled against in arbitration?",
+      "answer": "Contact the American Arbitration Association (AAA) directly, or seek assistance from a legal professional."
+    },
+    {
+      "question": "What are the rules and forms for filing an arbitration claim?",
+      "answer": "Rules and forms may be obtained from, and Claims may be filed with, the AAA (www.adr.org)"
+    },
+    {
+      "question": "What are the Mass Arbitration Procedures for a mass arbitration?",
+      "answer": "The Mass Arbitration Procedures apply to claims filed as part of a mass arbitration, which includes additional requirements."
+    },
+    {
+      "question": "Can multiple arbitration claims with similar subject matter and legal issues be combined into a single case?",
+      "answer": "Yes, if the representation of all claimants is the same or coordinated across the cases."
+    },
+    {
+      "question": "What is the purpose of mass arbitrations?",
+      "answer": "To resolve claims in a streamlined and cost-effective manner while minimizing burdens and impediments for large volume filings."
+    },
+    {
+      "question": "What are the procedures I agree to in order to receive adjudication of my claim and preserve the integrity of the arbitration process?",
+      "answer": "You agree to the adjudication of your claim and similar claims, and to preserve the integrity of the arbitration process, even if it may delay the arbitration of your individual claim."
+    },
+    {
+      "question": "What is the process for withdrawing an arbitration demand?",
+      "answer": "You can proceed in small claims court if the claim is within its jurisdiction and proceeds on an individual basis."
+    },
+    {
+      "question": "What are the mass arbitration filing requirements for a DEPOSIT ACCOUNT AGREEMENT with JPMorgan Chase Bank, N.A.?",
+      "answer": "In addition to the requirements set forth in the AAA Mass Arbitration Supplemental Rules, "
+    },
+    {
+      "question": "What information must I provide when starting a case with the AAA?",
+      "answer": "Your name, full Chase account number, mailing address, telephone number, email address, and a factual description of every disputed transaction for which you seek compensation."
+    },
+    {
+      "question": "What information is typically included in a claim for alleged damages?",
+      "answer": "A claim for alleged damages may include details such as date, amount, transaction type, event details (date, location, individuals involved), explanation of the basis of the claim, an itemized calculation of all alleged damages, and a signed statement from counsel authorizing representation."
+    },
+    {
+      "question": "What happens when a Process Arbitrator is appointed?",
+      "answer": "The Process Arbitrator has the authority to..."
+    },
+    {
+      "question": "What is the process for selecting the Process Arbitrator?",
+      "answer": "Each Party will receive a selection of eligible arbitrators according to the procedure described by AAA Mass Arbitration Supplementary Rule MA-7(a)"
+    },
+    {
+      "question": "What is the role of the Process Arbitrator in resolving disputes?",
+      "answer": "The Process Arbitrator has the authority to resolve any dispute related to the claim, in addition to the powers outlined in the AAA Mass Arbitration Supplementary Rules."
+    },
+    {
+      "question": "What are the grounds on which a case can be dismissed?",
+      "answer": "Failure to comply with Mass Arbitration Filing Requirements, other requirements outlined in the agreement, or any other reason"
+    },
+    {
+      "question": "What is the outcome if there is a deficiency in the filing?",
+      "answer": "Your claim will be dismissed without prejudice to refiling once the deficiencies are remedied."
+    },
+    {
+      "question": "What are some of the additional threshold eligibility issues that need to be considered for my case?",
+      "answer": "whether you had an account at Chase, experienced the transaction, fee, or event at issue, or otherwise cannot pursue the claim due to a"
+    },
+    {
+      "question": "Can a claim be dismissed due to a clear legal or factual deficiency?",
+      "answer": "Yes"
+    },
+    {
+      "question": "What are the powers and authorities granted to the Process Arbitrator?",
+      "answer": "The Process Arbitrator shall be authorized to afford any relief or impose any sanctions available under Federal Rule of Civil Procedure 11, 28 U.S.C. \u00a7 1927, or any applicable state law."
+    },
+    {
+      "question": "What is the process for resolving disputes through arbitration?",
+      "answer": "Counsel for the claimants and counsel for Chase shall each select 15 cases (per side) to proceed first in individual arbitration proceedings on the merits."
+    },
+    {
+      "question": "Can an individual Merits Arbitrator be assigned more than three (3) cases?",
+      "answer": "No, unless the Parties otherwise agree."
+    },
+    {
+      "question": "What is the process for improving the efficiency of court proceedings after the first thirty (30) cases are resolved?",
+      "answer": "Counsel will meet and confer regarding ways to improve the efficiency, including mediating or changing the number of cases filed in each stage."
+    },
+    {
+      "question": "What happens next after the initial 30 proceedings?",
+      "answer": "Each side selects 15 additional cases to proceed to individual arbitration proceedings."
+    },
+    {
+      "question": "What happens when parties agree to share a merits arbitrator for more than three cases?",
+      "answer": "A different merits arbitrator will be assigned."
+    },
+    {
+      "question": "What is the process after the first 30 cases are resolved?",
+      "answer": "Counsel will meet and confer to find ways to improve"
+    },
+    {
+      "question": "Should mediation or changing the number of cases filed in each stage be considered for improving the efficiency of proceedings?",
+      "answer": "No"
+    },
+    {
+      "question": "Can a tractor expedite proceedings by forgoing rounds of case selection and assigning merits arbitrators to remaining cases?",
+      "answer": "Yes"
+    },
+    {
+      "question": "What happens if there is a dispute about the Mass Arbitration Procedures?",
+      "answer": "The dispute will be resolved by the Process Arbitrator."
+    },
+    {
+      "question": "Who is responsible for interpreting and enforcing the mass arbitration procedures?",
+      "answer": "The Process Arbitrator or the Merits Arbitrator."
+    },
+    {
+      "question": "What happens if terms of the Mass Arbitration Procedures are found to be legally unenforceable?",
+      "answer": "The proceedings will proceed in a manner that is otherwise compliant with the law."
+    },
+    {
+      "question": "What is the next step after arbitration?",
+      "answer": "Continue in arbitration in accordance with AAA's Mass Arbitration Supplementary rules."
+    },
+    {
+      "question": "What does Chase do with your personal information?",
+      "answer": "Financial companies choose how they share your personal information and are required by federal law to give you the ability to control certain aspects of its use."
+    },
+    {
+      "question": "What types of personal information does your company collect and share?",
+      "answer": "The types of personal information collected and shared by your company depend on the product or service you have with them."
+    },
+    {
+      "question": "How do financial companies share customers' personal information?",
+      "answer": "All financial companies need to share customers' personal information to run their everyday business."
+    },
+    {
+      "question": "Are you limiting this sharing for our everyday business purposes?",
+      "answer": "Yes"
+    },
+    {
+      "question": "How can I opt out of having my creditworthiness information shared with affiliates?",
+      "answer": "Call 1-888-868-8618 to select the option that limits sharing of your creditworthiness information with affiliates."
+    },
+    {
+      "question": "How can I limit the sharing of my information with JPMorgan Chase Bank, N.A.?",
+      "answer": "You can contact us at any time to limit our sharing."
+    },
+    {
+      "question": "What is the process for ordering from the restaurant?",
+      "answer": "Enter your choice(s) via the provided menu and we also accept operator relay calls."
+    },
+    {
+      "question": "Who is providing this notice?",
+      "answer": {
+        "type": "list",
+        "title": "The U.S. consumer financial companies within the JPMorganChase family, including JPMorgan Chase Bank, N.A., Chase Insurance Agency, Inc., J.P. Morgan Securities LLC, The Infatuation Inc."
+      }
+    },
+    {
+      "question": "How does Chase protect my personal information?",
+      "answer": "To protect your personal information from unauthorized access and use, we use security measures"
+    },
+    {
+      "question": "What measures does the company take to protect employee access to personal information?",
+      "answer": "Computer safeguards, secure files, and buildings; authorization of employee access with limited scope, and requirement of protective policies for subcontractors."
+    },
+    {
+      "question": "How does Chase collect my personal information?",
+      "answer": "We collect your personal information, for example, when you open an account or make deposits or withdrawals from your account, pay your bills or apply for a loan, use your credit"
+    },
+    {
+      "question": "Can I limit all sharing of my personal information?",
+      "answer": "Federal law gives you the right to limit only \u200bsharing for affiliates' \u200beveryday business purposes."
+    },
+    {
+      "question": "What are the limitations on my personal data being shared with third parties?",
+      "answer": "State laws and individual companies may provide additional protections, but some affiliates may still use your information to market to you."
+    },
+    {
+      "question": "What are the implications of limiting joint account sharing under state law?",
+      "answer": "[\"When you limit sharing for a jointly held account, all individuals with shared access will be affected.\", \"This choice applies to everyone on your account.\"]"
+    },
+    {
+      "question": "What types of companies are included in JPMorgan affiliates?",
+      "answer": "Companies with a Chase or J.P. Morgan name and financial companies such as J.P. Morgan Securities LLC, The Infatuation Inc., and the Frosch family of companies."
+    },
+    {
+      "question": "What types of companies are considered nonaffiliates?",
+      "answer": "Financial and non-financial companies not related by common ownership or control."
+    },
+    {
+      "question": "Do you share my personal info with other companies for joint marketing?",
+      "answer": "No"
+    },
+    {
+      "question": "What is the phone number for Nevada\u2019s internal do not call list?",
+      "answer": "1-800-945-9470"
+    },
+    {
+      "question": "How can I get in touch with the Nevada Attorney General\u2019s office for inquiries about annual notices?",
+      "answer": "Contact us at the address above, or email Privacy.Info@JPMChase.com, with \u201cNevada Annual Notice\u201d in the subject line."
+    },
+    {
+      "question": "What is the process for accounts with a California mailing address in Nevada?",
+      "answer": "Accounts with a California mailing address are automatically treated as if they have limited the sharing with nonaffiliates as described"
+    },
+    {
+      "question": "What is JPMorgan Chase Bank, N.A.",
+      "answer": "A financial institution member of the Federal Deposit Insurance Corporation (FDIC)"
+    }
+  ]
+}

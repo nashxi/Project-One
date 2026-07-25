@@ -1,0 +1,649 @@
+{
+  "responses": [
+    {
+      "question": "What does the term \"deposit\" refer to in the JPMorgan Chase Bank, N.A. agreement?",
+      "answer": "any instrument or instruction to place funds into a deposit account"
+    },
+    {
+      "question": "What types of transactions are subject to potential credit to my account?",
+      "answer": "checks and substitute checks"
+    },
+    {
+      "question": "Will you provide next-day notice for receipt of an electronic deposit?",
+      "answer": "No"
+    },
+    {
+      "question": "What is the process for confirming a deposit via ACH or wire transfer?",
+      "answer": "You can call us to confirm the deposit."
+    },
+    {
+      "question": "What happens if the item on a check is altered, forged, or unauthorized?",
+      "answer": "We must repay the bank or issuer of the check."
+    },
+    {
+      "question": "Can an endorsement on a transaction be considered forged and make it unauthorized?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Can you subtract returned funds from my account?",
+      "answer": "Yes, we may subtract the funds from your account."
+    },
+    {
+      "question": "Can you transfer funds from one account to another or charge transactions to other accounts even after withdrawing funds?",
+      "answer": ""
+    },
+    {
+      "question": "Can the check or other transaction not have been paid and may not be paid for any other reason?",
+      "answer": ""
+    },
+    {
+      "question": "Who is entitled to transaction records and receipts?",
+      "answer": "The account holder"
+    },
+    {
+      "question": "Can the bank adjust my account balance based on an error on a deposit slip?",
+      "answer": "Yes, they may debit or credit your account."
+    },
+    {
+      "question": "Is there a discrepancy or error with my account funds?",
+      "answer": "A discrepancy exists between the declared and actual amount of funds in your account."
+    },
+    {
+      "question": "Are night depository deposits and large cash deposits counted at a branch banker",
+      "answer": "No"
+    },
+    {
+      "question": "What is required in case of envelope, bag, or money loss?",
+      "answer": "A written receipt must be issued before issuing a refund."
+    },
+    {
+      "question": "Can I deposit a remotely created check without verifying its authorization?",
+      "answer": "No, you must ensure it is authorized by the account owner."
+    },
+    {
+      "question": "Can I be held liable for a claim related to an electronically created item?",
+      "answer": "yes"
+    },
+    {
+      "question": "How are transactions posted to my account?",
+      "answer": "We provide you with visibility into how transactions are posted and in what order to help you better manage your account."
+    },
+    {
+      "question": "What is the order of transactions during nightly processing?",
+      "answer": "First, we make any previous day adjustments, and add deposits to your account. Second, we subtract transactions."
+    },
+    {
+      "question": "What types of transactions are checked on an account?",
+      "answer": "forms; checks drawn on your account; debit card transactions; wire transfers; and real-time payments (RTPs)."
+    },
+    {
+      "question": "Why can't you show a transaction as pending if you haven't received an authorization request from the merchant?",
+      "answer": "Because the transaction occurred at the end of the day when posting is allowed."
+    },
+    {
+      "question": "What type of transactions can\u2019t be processed automatically?",
+      "answer": "Overdraft Protection transfers or transfers to maintain target balances"
+    },
+    {
+      "question": "What is the final step in processing transactions?",
+      "answer": "Fees are assessed last"
+    },
+    {
+      "question": "What does it mean for a transaction to be shown as 'pending' in my JPMorgan Chase Bank account?",
+      "answer": "It means that the transaction has not yet been processed or settled."
+    },
+    {
+      "question": "What is the status of my transactions?",
+      "answer": "These transactions impact your available balance, but have not yet posted to your account and do not guarantee that we will pay these transactions to your account if you have a negative balance at that time."
+    },
+    {
+      "question": "What happens to a transaction that is returned due to insufficient funds during a business day's nightly processing?",
+      "answer": "The transaction will still be marked as unpaid."
+    },
+    {
+      "question": "Why doesn't authorized show up as pending on my account?",
+      "answer": "You are still responsible for it and it may still be posted against your account during nightly processing."
+    },
+    {
+      "question": "What types of debit transactions can reduce my available balance by the amount of the transaction?",
+      "answer": "ATM withdrawals, Chase Banker withdrawals"
+    },
+    {
+      "question": "What types of transactions are available through the digital platform?",
+      "answer": "Automatic Payments, Digital Platform Transactions, Checks Drawn on Your Account, Debit Card Transactions, Wire Transfers, ATM and Chase Banker Withdrawals"
+    },
+    {
+      "question": "How are ACH transactions applied to my account?",
+      "answer": "We will generally apply debit transactions against your available balance as pending at the start of business."
+    },
+    {
+      "question": "What happens to ACH debit transactions initiated on the same day as the payment effective date?",
+      "answer": "They are applied in the order received."
+    },
+    {
+      "question": "What is the status of a check on my account after deposit at another bank?",
+      "answer": "The check may be pending throughout the day as the other bank submits it for payment."
+    },
+    {
+      "question": "What happens to my account balance when you receive a notice?",
+      "answer": "We may notify the other bank about that fact."
+    },
+    {
+      "question": "When will the transaction be applied to my account after internal reviews are completed?",
+      "answer": "On the effective date of the transfer."
+    },
+    {
+      "question": "What happens when a transaction is posted against an account with insufficient funds?",
+      "answer": "Overdraft fees are applied."
+    },
+    {
+      "question": "What is the bank's policy on paying overdraft transactions?",
+      "answer": "We pay overdrafts at our discretion and do not guarantee authorization or payment for any type of transaction."
+    },
+    {
+      "question": "What happens when a transaction exceeds my available account balance?",
+      "answer": "The account balance used for payment or return is determined during nightly processing."
+    },
+    {
+      "question": "What happens to my account balance if there are pending deposits or holds?",
+      "answer": "These will be deducted from the available balance before processing any debit transactions."
+    },
+    {
+      "question": "When are you assessed fees?",
+      "answer": "During our nightly processing"
+    },
+    {
+      "question": "Can I trust my available balance throughout the day?",
+      "answer": "No, it may vary after nightly processing."
+    },
+    {
+      "question": "What are the conditions for an ATM withdrawal?",
+      "answer": "Your available balance must be equal to or more than the requested withdrawal amount."
+    },
+    {
+      "question": "What are the limitations on withdrawals and debits at ATMs or with merchants?",
+      "answer": "Additional fees described in the applicable Additional Banking Services and Fees."
+    },
+    {
+      "question": "What is my responsibility if I overdraft my account?",
+      "answer": "You must immediately pay the amount of any overdraft together with any applicable fees or interest."
+    },
+    {
+      "question": "What happens if I fail to pay according to the fee schedule?",
+      "answer": "We may report you to consumer reporting agencies, close your account, or both. These actions could affect your ability to open accounts in the future."
+    },
+    {
+      "question": "Can I be charged for any subsequent deposits to my account, including Social Security payments, to pay overdraft fees?",
+      "answer": "Yes,"
+    },
+    {
+      "question": "Are there any fees or interest that can be taken from my other accounts?",
+      "answer": "No, details are outlined in the Set-off and Security Interest section."
+    },
+    {
+      "question": "What are the steps I need to take if I want to make changes to my payment instructions?",
+      "answer": "You can submit new instructions at any time with the person or organization paying the benefits."
+    },
+    {
+      "question": "Can I avoid being charged for overdrafts and additional fees?",
+      "answer": "No, certain business accounts may charge additional fees or interest during nightly processing after it is charged off."
+    },
+    {
+      "question": "What is the process for overdraft fees and interest charges by JPMorgan Chase Bank, N.A.",
+      "answer": "We are entitled to charge an overdraft fee and/or interest, as applicable, on any paid transactions."
+    },
+    {
+      "question": "Will there be a fee if a returned transaction is re-posted on a business day?",
+      "answer": "No, if a returned transaction is re-posted on a business day when your account is overdrawn, we will not charge a fee."
+    },
+    {
+      "question": "What is the policy on overdraft fees for Chase accounts?",
+      "answer": "We may limit the number of overdraft fees we charge for a business day for Chase accounts."
+    },
+    {
+      "question": "How are my payments and deposits calculated?",
+      "answer": "They are calculated according to the Electronic Funds Transfer Service Terms."
+    },
+    {
+      "question": "What types of transactions can be made through electronic means?",
+      "answer": "Payments, deposits and transfers"
+    },
+    {
+      "question": "What methods does the party agree to use to receive electronic funds?",
+      "answer": "ACH, RTP, and other EFT networks"
+    },
+    {
+      "question": "What are the restrictions on using an account for ACH or RTP payments on behalf of someone who is not a US resident?",
+      "answer": "A non-US resident must be authorized before making such transactions."
+    },
+    {
+      "question": "What is the purpose of using my account and routing number for one-time electronic payments?",
+      "answer": "To make a one-time electronic payment for purchases or to pay bills on personal accounts only."
+    },
+    {
+      "question": "Can I still have my account if I don't activate my Chase debit or ATM card?",
+      "answer": "No, activating your card is not required to keep your account open."
+    },
+    {
+      "question": "What happens to my current card when I activate a new one?",
+      "answer": "You can use it at ATMs to withdraw cash, transfer money, check balances, and deposit funds."
+    },
+    {
+      "question": "What accounts can I access using a Chase ATM?",
+      "answer": "All personal checking, savings, and credit card accounts"
+    },
+    {
+      "question": "What are the types of cards offered by e savings account for deposit accounts?",
+      "answer": "Deposit-only business cards that can be linked to a checking or savings account."
+    },
+    {
+      "question": "What are the terms for using a non-Chase ATM under this agreement?",
+      "answer": "You can use a non-Chase ATM only if it is in a participating network, which allows access to your primary checking and savings accounts."
+    },
+    {
+      "question": "Can linked accounts be accessed outside of the U.S.?",
+      "answer": "No, only primary checking accounts are usually accessible"
+    },
+    {
+      "question": "Will the bank refund ATM surcharge fees?",
+      "answer": "yes"
+    },
+    {
+      "question": "Are foreign currency commissions and fees included in the exchange rate charged by third parties for international transactions?",
+      "answer": "Yes"
+    },
+    {
+      "question": "What is excluded from Chase Surcharge Fee reimbursements",
+      "answer": "Purchases made with a debit card at participating merchants"
+    },
+    {
+      "question": "How do I notify my merchant of changes to my payment details?",
+      "answer": "You must notify the merchant immediately if your card number or expiration date has changed or your debit card is closed, and you may also receive notification of your new account number and expiration date."
+    },
+    {
+      "question": "How do i use my credit card for cash back and payments?",
+      "answer": "Withdraw cash while making a purchase using your PIN if the merchant permits the cash-back option. Send or receive payments from another person, or receive payments from a business by providing your card number to third-party payment services."
+    },
+    {
+      "question": "Can I withdraw cash from my primary checking account using this service?",
+      "answer": "Yes, you can withdraw funds at a teller and the withdrawal amount is deducted from your primary checking account."
+    },
+    {
+      "question": "What are the terms for electronic transfers using my account number?",
+      "answer": "You may authorize a third party to transfer funds to or from your account"
+    },
+    {
+      "question": "What payment methods are used for transfers?",
+      "answer": [
+        "Employer payroll",
+        "Government benefits",
+        "Other direct deposits",
+        "One-time payments"
+      ]
+    },
+    {
+      "question": "What types of transactions require recurring charge or transfer authorization?",
+      "answer": "Recurring charges to your account to pay bills or make a purchase; Transfers between external accounts and your Chase accounts; or A 'check conversion' transfer, where a merchant or other payee creates an electronic transfer from your paper check"
+    },
+    {
+      "question": "What can the merchant do with my returned check?",
+      "answer": "The merchant may keep your check or return it to you."
+    },
+    {
+      "question": "What services can I enroll in through your digital platforms?",
+      "answer": "Loans or credit cards, make payments from your account to third parties, and access other eligible products and services."
+    },
+    {
+      "question": "What are the conditions for using these services?",
+      "answer": "We may require you to use a trusted device to manage your account and digital profile, and to access or use eligible products and services."
+    },
+    {
+      "question": "What services can I access using my Chase account?",
+      "answer": "You may use our automated customer service system or speak to us to get your account information, transfer funds between your accounts with us, or pay qualifying Chase loans or credit cards."
+    },
+    {
+      "question": "What information is required to access the automated system?",
+      "answer": "A valid password or PIN and/or a valid Taxpayer Identification Number (TIN)"
+    },
+    {
+      "question": "What is the procedure for executing a telephone request or order?",
+      "answer": "We believe the instruction to be genuine, but we may refuse to execute any request or order, including transfers for overdraft protection."
+    },
+    {
+      "question": "What is required for Overdraft Protection?",
+      "answer": "A checking account and an eligible funding account."
+    },
+    {
+      "question": "What is overdraft protection?",
+      "answer": "A service that helps prevent overdrafts from occurring by transferring funds from a checking account to help cover transactions."
+    },
+    {
+      "question": "Can you explain the process when we authorize a purchase?",
+      "answer": "When we give authorization to a merchant, we will reserve or place a hold on your available balance, generally for three business days, for the amount of the authorization. There may be delays of several days between the time of authorization and when the funds are actually deducted."
+    },
+    {
+      "question": "Can I be charged more than the initial authorized amount?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Are there situations where merchants require authorization for purchases unrelated to the actual transaction value, such as self-service fuel?",
+      "answer": "True"
+    },
+    {
+      "question": "What happens when the merchant pays the purchase amount from my balance after a hold has expired?",
+      "answer": "We will pay the purchase amount from your balance."
+    },
+    {
+      "question": "What is the bank\u2019s policy on authorizing everyday debit card transactions when the available balance is insufficient?",
+      "answer": "We generally won\u2019t authorize an everyday debit card transaction unless you have notified us that you DO want us to pay debit card overdrafts at our discretion."
+    },
+    {
+      "question": "Will the bank charge an Overdraft Fee?",
+      "answer": "No"
+    },
+    {
+      "question": "What happens to my available balance when I authorize a purchase?",
+      "answer": "It decreases."
+    },
+    {
+      "question": "How can I avoid overdraft fees?",
+      "answer": "Keep enough funds in your account to cover all transactions, including previously authorized debit card transactions that have not been posted to your account yet."
+    },
+    {
+      "question": "How does a transaction coding determine if a transaction is everyday or recurring?",
+      "answer": "Transaction coding sent by merchants or third parties affects authorization and assessment of transactions."
+    },
+    {
+      "question": "What happens if another transaction overdrafts my account?",
+      "answer": "We will assess fees as described in the sections Overdrafts, Fees and Overdraft Protection, Posting Order and Processing, and the Fee Schedule."
+    },
+    {
+      "question": "Can I cancel my card and what are the steps for doing so?",
+      "answer": "You may cancel your card by calling us and please destroy it after cancellation."
+    },
+    {
+      "question": "What happens to my debit card transactions if I lock it?",
+      "answer": "We will stop authorizing everyday debit card transactions and ATM withdrawals made by swiping, tapping or inserting your debit card at a payment terminal."
+    },
+    {
+      "question": "Will locking my card prevent recurring debit transactions?",
+      "answer": "No, locking your card will not impact your recurring debit card transactions."
+    },
+    {
+      "question": "What is the process for foreign exchange transactions on a JPMorgan Chase card?",
+      "answer": "The exchange rate applied to card transactions that occur in a different currency will be set by the bank."
+    },
+    {
+      "question": "What determines the interest rate for a cryptocurrency transaction?",
+      "answer": "Elected by the network that processes the transaction."
+    },
+    {
+      "question": "What happens when a card transaction is posted to my account?",
+      "answer": "We will charge a Foreign Exchange Rate Adjustment Fee."
+    },
+    {
+      "question": "What is the action amount after conversion to U.S. dollars?",
+      "answer": "The exchange rate used may include a spread, commissions or other costs."
+    },
+    {
+      "question": "What are the required details for an exchange?",
+      "answer": "ending on your relationship, products with us, or the type of transaction being conducted, the dollar amount, type of currency, and the date and the time of the exchange."
+    },
+    {
+      "question": "What is the difference between choosing debit and credit when making a purchase?",
+      "answer": "If you select Debit, your purchase will be subtracted directly from your primary checking account."
+    },
+    {
+      "question": "What are the exceptions for providing a signature when using credit for self-service fuel or at an ATM?",
+      "answer": "Some smaller amounts, and when paying for self-service fuel"
+    },
+    {
+      "question": "What should I do when using an ATM?",
+      "answer": "Be aware of your surroundings and choose a well-lit, secure ATM."
+    },
+    {
+      "question": "What precautions should I take when using an ATM at night?",
+      "answer": [
+        "Consider having someone accompany you",
+        "Cancel transaction if suspicious activity is noticed",
+        "Use a different ATM if it's not working properly"
+      ]
+    },
+    {
+      "question": "What security protocols should I follow when entering the bank during regular hours?",
+      "answer": "Close the door completely and do not allow unknown individuals in"
+    },
+    {
+      "question": "What is the recommended protocol when using an ATM?",
+      "answer": "Minimize transaction time at walk-up ATMs by having your card ready, and at drive-up ATMs, keep your car engine running and lock your doors."
+    },
+    {
+      "question": "What should I do after seeing my PIN or the transaction amount is missing?",
+      "answer": "Remove your card from the ATM, take your money, receipt, and card, and contact the police or a security officer"
+    },
+    {
+      "question": "If I feel like I'm being followed at an ATM, where should I go?",
+      "answer": "Heavily populated, well-lit areas. Contact the police immediately."
+    },
+    {
+      "question": "What is the contact information for security in Chase ATM facilities?",
+      "answer": "{\"New York\": {\"phone\": \"888-697-2861\", \"department\": \"NYC Department of Consumer Affairs\"}, \"outside New York\": {\"phone\": \"800-900-0001\", \"department\": \"JPMorgan Chase Security Department\"}}"
+    },
+    {
+      "question": "What is the contact number for the New Jersey Department of Banking?",
+      "answer": "{\"phone\": \"212-487-4444\", \"alternate_phone\": \"609-292-7272\"}"
+    },
+    {
+      "question": "How do I change my PIN?",
+      "answer": "Request a new PIN on some of our Digital Platforms, call us, or visit a branch."
+    },
+    {
+      "question": "What are the limits on ATM withdrawals, card purchases, and electronic funds transfers if our card is lost or stolen?",
+      "answer": "Limits on ATM withdrawals, card purchases, and electronic funds transfers include reporting a problem promptly to take precautions to prevent misuse."
+    },
+    {
+      "question": "How do I know my daily withdrawal and purchase limits?",
+      "answer": "Your limits are contained in the product information you received when you opened your account."
+    },
+    {
+      "question": "What happens when my transaction exceeds my limits?",
+      "answer": "Your card will be restricted."
+    },
+    {
+      "question": "What are the consequences of using an untrusted device for electronic funds transfers?",
+      "answer": "Your ability to make EFTs may be limited."
+    },
+    {
+      "question": "What methods are available to receive receipts and statements",
+      "answer": "ATMs, Branch, Digital Platforms, Merchant Locations"
+    },
+    {
+      "question": "Can I still receive a receipt for small dollar transactions at merchant locations?",
+      "answer": "No, you may not receive a receipt"
+    },
+    {
+      "question": "How can I return to the Table of Contents?",
+      "answer": "Call us or visit a nearby ATM."
+    },
+    {
+      "question": "What are the procedures for correcting errors or questioning electronic funds transfers in my JPMorgan Chase account?",
+      "answer": "Contact our customer service department at (800) 935-9935 or visit our website at jpmorganchase.com for assistance."
+    },
+    {
+      "question": "What are the procedures for accessing more information about a transaction listed on this platform?",
+      "answer": "See the How to Contact Us section."
+    },
+    {
+      "question": "What is the deadline to contact you regarding unauthorized EFTs?",
+      "answer": "60 days after notification of unauthorized EFTs."
+    },
+    {
+      "question": "What is required to be provided in response to a reported problem or error?",
+      "answer": "Your name and account number, along with a description of the error or transaction and explanation for why it is considered an error."
+    },
+    {
+      "question": "What is the timeframe for correcting an error?",
+      "answer": "Within 10 business days after hearing from you, but up to 45 days in some cases."
+    },
+    {
+      "question": "Can I get a refund for an incorrect amount on my account?",
+      "answer": "We will provide provisional credit to your account within 10 business days for the amount you think is in error."
+    },
+    {
+      "question": "Is my 10-business-day period for disputing errors extended to 20 business days if my first account deposit was made less than 30 days before the suspected error date?",
+      "answer": "Yes"
+    },
+    {
+      "question": "What is the updated timeframe for reporting a suspected error on a transaction?",
+      "answer": "The 45-day period is extended to 90 days."
+    },
+    {
+      "question": "What type of EFT error can be reversed and how?",
+      "answer": "An unauthorized EFT, the amount of the transfer is wrong or"
+    },
+    {
+      "question": "What should I do if I received an incorrect amount of money from an ATM?",
+      "answer": "Contact the financial institution where the transaction was initiated to report the issue and initiate a preauthorized transfer back to your account."
+    },
+    {
+      "question": "Can I get more information about a failed transfer?",
+      "answer": "Yes, please provide additional details to help us determine the cause of the issue."
+    },
+    {
+      "question": "What is the standard procedure for notifying the company of a potential EFT issue?",
+      "answer": "Notify us no later than 30 days after we sent you the form."
+    },
+    {
+      "question": "What is the timeframe for finalizing or reversing provisional credits for ACH payments on business accounts?",
+      "answer": "up to 75 days"
+    },
+    {
+      "question": "What happens when there is not enough money in my balance to cover a transaction?",
+      "answer": "You will be liable for your losses or damages, unless you use sufficient funds."
+    },
+    {
+      "question": "Does this text indicate a problem with a transaction?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Can I be held liable for failing to complete a preauthorized transfer?",
+      "answer": "No, we are not liable for failure to complete a transaction on a business account if we send you notice that the transaction was not completed."
+    },
+    {
+      "question": "What are recurring payments that require a notification of amount and date 10 days before the payment due date?",
+      "answer": "Recurring payments with varying amounts that necessitate advance notice of at least 10 days prior to the scheduled payment date."
+    },
+    {
+      "question": "What are the conditions for stopping a payment before the scheduled payment date?",
+      "answer": "You can stop some payments by providing your card number, if they differ by more than a certain amount from the previous payment or when the amount would fall outside certain limits that you set."
+    },
+    {
+      "question": "What is required for the recurring transfer?",
+      "answer": "You must contact us by telephone or at the branch and provide the exact card number."
+    },
+    {
+      "question": "What is the process for providing a routing number for ACH direct debits to your account?",
+      "answer": "You must contact us by telephone or at the branch, give us your account number and the exact name of the payee."
+    },
+    {
+      "question": "What is required to stop a payment?",
+      "answer": "A range of amounts or an instruction to block all payments from the named payee, with a Stop Payment Fee applied"
+    },
+    {
+      "question": "Can you refuse a payment to a payee with a similar name?",
+      "answer": "We may, but we are not liable if we do not."
+    },
+    {
+      "question": "What is the duration for an ACH stop payment on a personal account?",
+      "answer": "Effective immediately, until further notice."
+    },
+    {
+      "question": "What are the conditions under which an ACH stop payment will be effective for a business account at JPMorgan Chase Bank, N.A.",
+      "answer": "Until we have determined that the ACH transaction is invalid or has been stopped by you."
+    },
+    {
+      "question": "How long can I opt out of auto-renewal, and what are the terms of auto-renewal?",
+      "answer": "For up to six additional years, whichever is longer (18 months) or \u2022 One calendar year with automatic renewal annually."
+    },
+    {
+      "question": "What is required to avoid being charged a Stop Payment Automatic Renewal Fee?",
+      "answer": "You must notify the company not to renew and follow the instructions in the statement."
+    },
+    {
+      "question": "How can I cancel pending and future payments for my Digital Platforms?",
+      "answer": "You can use that service to cancel pending and future payments."
+    },
+    {
+      "question": "Can I make a stop payment request if placed within three or more business days before the scheduled transfer date?",
+      "answer": "Yes, but you may be responsible for losses or damages if we still pay despite the stop payment."
+    },
+    {
+      "question": "What can I do on select digital platforms regarding ACH debit transactions?",
+      "answer": "Block and return ACH debit transactions."
+    },
+    {
+      "question": "What is necessary for completing transactions?",
+      "answer": "Compliance with government agency, arbitration or court orders and initiating claims."
+    },
+    {
+      "question": "What is the basis for using my data as stated in your Privacy Notice?",
+      "answer": "In accordance with your written permission; As permitted by our Privacy Notice and other relevant privacy notices and disclosures."
+    },
+    {
+      "question": "Can I minimize my losses if I call the bank within two business days after realizing my PIN or code has been lost or stolen?",
+      "answer": "Yes, you can lose no more than $50."
+    },
+    {
+      "question": "What are the consequences for not notifying the bank within two business days after discovering a lost or stolen card, PIN, or code?",
+      "answer": "You could lose up to $500."
+    },
+    {
+      "question": "What should I do if a statement shows electronic funds transfers that I did not make?",
+      "answer": "Tell us right away."
+    },
+    {
+      "question": "Can the transactions be prevented with prior notice?",
+      "answer": "No, a good reason such as a long trip or hospital stay may have prevented it."
+    },
+    {
+      "question": "Can someone use my credit card without my permission?",
+      "answer": "No"
+    },
+    {
+      "question": "What are my responsibilities regarding EFT services?",
+      "answer": "ponsible for all authorized and unauthorized transactions; That all of the provisions of this Agreement, including liability limitations and the requirement that you give us notice of unauthorized transactions within 30 days, apply to your EFT serv"
+    },
+    {
+      "question": "What is the zero liability protection policy for card transactions?",
+      "answer": "You are not liable for any unauthorized card transactions if you notify us promptly."
+    },
+    {
+      "question": "Were you grossly negligent or fraudulent in handling your account or card?",
+      "answer": "No"
+    },
+    {
+      "question": "Are fees for all EFT services disclosed in the Fee Schedule and product information?",
+      "answer": "Yes"
+    },
+    {
+      "question": "What transactions are excluded from Consumer Financial Protection Bureau Regulation E?",
+      "answer": "Wire transfers and any transactions not specifically described in the Electronic Funds Transfer Service"
+    },
+    {
+      "question": "What types of EFT services are offered besides those described in the Electronic Funds Transfer Service Terms?",
+      "answer": "EFT services with separate agreements and disclosures"
+    },
+    {
+      "question": "When can I withdraw my deposited funds?",
+      "answer": "You can typically withdraw your deposited funds the next business day after the business day you deposit them, but there are exceptions."
+    },
+    {
+      "question": "What happens when funds from a deposit become available for withdrawal?",
+      "answer": "It does not mean the check or other item has been cleared or paid by the paying bank."
+    },
+    {
+      "question": "Will checks be returned after we've made the funds available to you and you've withdrawn them?",
+      "answer": "No one, including our employees, can guarantee to you that a check will not be returned."
+    }
+  ]
+}

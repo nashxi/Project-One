@@ -1,0 +1,688 @@
+{
+  "responses": [
+    {
+      "question": "What happens to my available balance if I make a withdrawal or transfer from my account?",
+      "answer": "The bank may subtract the amount of the check or transfer from my available balance."
+    },
+    {
+      "question": "What kind of transaction do you need documentation for?",
+      "answer": "A transaction that was received throughout the day by you or a person authorized by you, such as one that you created or approved."
+    },
+    {
+      "question": "Can I cash a check if check writing is not an available feature of my account?",
+      "answer": "No, we will not issue you checks and you are not permitted to write checks drawn on your account."
+    },
+    {
+      "question": "What are the fees associated with transactions conducted in foreign currency?",
+      "answer": "Any transaction we conduct for you in a foreign currency will use an exchange rate and may be subject to certain fees."
+    },
+    {
+      "question": "What currencies are available for foreign currency exchange at the branches?",
+      "answer": "Certain currencies, and you can pick it up at the branch at a later date."
+    },
+    {
+      "question": "What are the expected exchange rates provided by your service?",
+      "answer": "We may use less favorable exchange rates than those quoted online or in publications."
+    },
+    {
+      "question": "What additional fees might be charged for foreign currency exchange?",
+      "answer": "Commissions, and/or other costs"
+    },
+    {
+      "question": "What information is needed for a foreign currency exchange?",
+      "answer": "ith us, or the type of transaction being conducted, the dollar amount, type of currency, and the date and time of the exchange, and whether the transaction is a debit or credit to your account."
+    },
+    {
+      "question": "Can the company accept checks drawn on a non-US bank or payable in a foreign currency?",
+      "answer": "No"
+    },
+    {
+      "question": "Can checks from foreign countries be subject to a different funds availability policy?",
+      "answer": "Yes"
+    },
+    {
+      "question": "What is the payment method for checks received on a collection basis?",
+      "answer": "Checks are payable in a foreign currency based on the current exchange rate at the time of payment."
+    },
+    {
+      "question": "What happens to my balance when you process a return with subtracted amounts from other banks?",
+      "answer": "We subtract the amount of the check and any charges from other banks from your balance."
+    },
+    {
+      "question": "Can you credit my account for items purchased on a collection basis after receiving final payment?",
+      "answer": "No"
+    },
+    {
+      "question": "Can imported items be deposited in US dollars?",
+      "answer": "Yes, they can."
+    },
+    {
+      "question": "What is the bank's policy on large cash withdrawals?",
+      "answer": "We may place reasonable restrictions on when and how you make any large cash withdrawal, and we may require a document releasing us from liability in case of robbery."
+    },
+    {
+      "question": "Can the bank refuse a withdrawal request due to disagreements over the terms?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Can a stop payment be requested after the check has been cashed?",
+      "answer": "No, a stop payment cannot be effective if the bank has already certified, paid or become responsible for the check."
+    },
+    {
+      "question": "Can I still be held responsible for paying an item after requesting a stop payment?",
+      "answer": "No, we will not inform you about applicable state law."
+    },
+    {
+      "question": "What account number and check number should I provide in order for your automated system to identify the item?",
+      "answer": "You need to provide the account number on which the check is drawn, along with either the exact check number."
+    },
+    {
+      "question": "What is required to stop a check from being cashed?",
+      "answer": "The payee name and exact amount, or The payee name and range of amounts."
+    },
+    {
+      "question": "Can you refuse a payment to a payee with a similar name if you believe it is the same payee?",
+      "answer": "We may, but we are not liable if we don\u2019t refuse the payment."
+    },
+    {
+      "question": "How long does a stop payment order last on a personal account?",
+      "answer": "One year"
+    },
+    {
+      "question": "Can I place a new stop payment order that will be effective for one calendar year?",
+      "answer": "Yes, an additional fee will be charged."
+    },
+    {
+      "question": "What is the automatic renewal period for my subscription?",
+      "answer": "A calendar year with automatic renewal annually for up to six additional years."
+    },
+    {
+      "question": "How do I opt-out of automatic renewal fee with Chase?",
+      "answer": "Notify us via online channel, call the number on your statement, or contact your Chase team."
+    },
+    {
+      "question": "What types of checks can I place a stop payment on?",
+      "answer": "cashier\u2019s check, teller\u2019s check or certified check"
+    },
+    {
+      "question": "Can we still be liable if our lost, stolen, or destroyed check is presented for payment?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Can I get a refund for a stopped check?",
+      "answer": "No, you can only get a refund within 90 days of the original check's issue date."
+    },
+    {
+      "question": "Can I get a refund or replacement check if the original check is used for payment within 90 days?",
+      "answer": "No"
+    },
+    {
+      "question": "What are the account numbers used for funds transfers?",
+      "answer": "Every other party involved in the funds transfer will also have an assigned account number."
+    },
+    {
+      "question": "What happens if the funds transfer instruction provides both a bank number or account number and a name that identifies a different person?",
+      "answer": "The bank involved in the transfer may rely on any bank number or account number you provide."
+    },
+    {
+      "question": "How do banks identify an account",
+      "answer": "By its number, as we rely exclusively on this information"
+    },
+    {
+      "question": "What type of accounts is the bank allowed to restrict withdrawals from without providing notice?",
+      "answer": "Money market accounts, excluding NOW accounts."
+    },
+    {
+      "question": "What are gettable or transferable instruments used for?",
+      "answer": "Making transfers to third parties from savings accounts."
+    },
+    {
+      "question": "What is the required notice period for account withdrawal?",
+      "answer": "7 days"
+    },
+    {
+      "question": "Can a non-customer cash a check at one of your branches?",
+      "answer": "We may charge a fee or refuse to cash it and may require identification."
+    },
+    {
+      "question": "Can we write a check that is incomplete, future-dated, or has conditions limiting payment?",
+      "answer": "No"
+    },
+    {
+      "question": "What happens if you don",
+      "answer": "may pay such checks, and if we pay a conditional check, the conditions do not apply to us."
+    },
+    {
+      "question": "Is there a minimum age limit for paying bills?",
+      "answer": "Yes"
+    },
+    {
+      "question": "What type of signature is accepted by the issuer?",
+      "answer": "A card specifies that multiple signatures are required or you have otherwise instructed us to do so."
+    },
+    {
+      "question": "Can I use a facsimile or computer-generated signature?",
+      "answer": "No, you must provide a real signature."
+    },
+    {
+      "question": "Are payments checked for authenticity?",
+      "answer": "No"
+    },
+    {
+      "question": "Does returning a check because of a discrepancy in the signature or amount write-in voids liability for the issuing bank?",
+      "answer": "No"
+    },
+    {
+      "question": "Can an individual be required to pay a check if they select one option when presented with it?",
+      "answer": "No, the institution has no duty to prevent a check from being presented more than once and may disregard any information on the check other than the identification of the paying bank."
+    },
+    {
+      "question": "What should be done with MICR-encoded information on a check?",
+      "answer": "Not visually inspected."
+    },
+    {
+      "question": "What is a substitute check?",
+      "answer": "A substitute check is a check that has been rewritten with the payee's name written on it in the payor's own handwriting."
+    },
+    {
+      "question": "What are the substitute checks used for?",
+      "answer": "They are used as a reduced image of the front and back of the original check."
+    },
+    {
+      "question": "Can I still use the substitute check as proof of payment?",
+      "answer": "Yes, you can use it the same way you would use the original check."
+    },
+    {
+      "question": "What rights do I have when receiving substitute checks?",
+      "answer": "You have the same rights as specified in this notice, except for original checks and electronic debits."
+    },
+    {
+      "question": "What are my rights as a consumer regarding substitute checks?",
+      "answer": "In certain cases, federal law provides a special procedure that allows you to request a refund for losses you suffer if a substitute check is posted to your account (for example, if you think that we made an error on the check)"
+    },
+    {
+      "question": "What type of recovery can I expect if I withdrew the wrong amount from my account?",
+      "answer": "The losses you may attempt to recover under this procedure may include the amount that was withdrawn from your account and fees."
+    },
+    {
+      "question": "What is the limit on my refund for overdraft fees charged during withdrawal?",
+      "answer": "The amount of your refund is limited to your loss or the substitute check amount, whichever is less."
+    },
+    {
+      "question": "If my account is an interest-bearing account, what happens if I lose more than the substitute check?",
+      "answer": "You may be able to recover additional amounts under other laws."
+    },
+    {
+      "question": "What is the deadline for receiving my full refund?",
+      "answer": "{\"timeframe\": \"Within 10 business days after claim receipt + remainder within 45 calendar days after claim receipt\", \"amount\": \"$2,500\"}"
+    },
+    {
+      "question": "Will a refund, including interest, be issued if the substitute check is later determined to have been correctly posted?",
+      "answer": null
+    },
+    {
+      "question": "How do you make a claim for a refund?",
+      "answer": "Contact JPMorgan Chase Bank, N.A. by mail or online through their website to initiate the claim process."
+    },
+    {
+      "question": "Must you contact the company within 40 calendar days of receiving a substitute check or account statement?",
+      "answer": "Yes"
+    },
+    {
+      "question": "What information do I need to provide for my disputed withdrawal?",
+      "answer": "he amount withdrawn was incorrect; An estimate of the amount of your loss; An explanation of why the substitute check you received is insufficient to confirm that you suffered a loss; and The following information to help us identify the substitute check."
+    },
+    {
+      "question": "What information should be included on a substitute check?",
+      "answer": "the check number, the name of the person to whom you wrote the check, and the amount of the check."
+    },
+    {
+      "question": "What happens when you don\u2019t use your account?",
+      "answer": "You will have to pay a fee or expense, and the account may be closed if no customer-initiated activity is detected."
+    },
+    {
+      "question": "Can a checking or savings account remain active if it does not meet the specified criteria for at least 24 months?",
+      "answer": "No"
+    },
+    {
+      "question": "What are the conditions for an account to become active after a CD renewal or renegotiation?",
+      "answer": "The CD will be considered inactive until a subsequent maturity or early withdrawal."
+    },
+    {
+      "question": "Can I still make debit card purchases if my account is considered dormant?",
+      "answer": "No, you will not be able to make debit card purchases."
+    },
+    {
+      "question": "What can I do with my account?",
+      "answer": "Making transfers, deposits or withdrawals and accessing your account on our Digital Platforms."
+    },
+    {
+      "question": "What happens when a deposit is made on a business day?",
+      "answer": "If you make a deposit with a banker at a branch on a business day, we will consider that day to be the day of your deposit."
+    },
+    {
+      "question": "What happens if I make a deposit at a Chase ATM on a non-business day or after the cutoff time?",
+      "answer": "If you make a deposit on a day that is not a business day, we will consider the previous business day as the day of your deposit. However, if you make an ATM deposit after the cutoff time on a business day, it will be processed on the current business day."
+    },
+    {
+      "question": "What days are considered business days for deposit availability?",
+      "answer": "Every day, except Saturdays, Sundays and federal holidays."
+    },
+    {
+      "question": "What is the cutoff time for deposits at ATMs?",
+      "answer": "11 p.m. Eastern Time (8 p.m. Pacific Time)"
+    },
+    {
+      "question": "What is the cutoff date for making bank deposits?",
+      "answer": "The next business day"
+    },
+    {
+      "question": "What address do I use for check deposits made by mail?",
+      "answer": "National Bank By Mail PO Box 6185 Westerville, OH 43086"
+    },
+    {
+      "question": "What happens to mail deposits sent to a different Chase facility than the one they were mailed to?",
+      "answer": "They are forwarded to the National Bank By Mail facility in Westerville, Ohio and will be considered received on the date of receipt by that facility."
+    },
+    {
+      "question": "What is the typical availability of wire transfers, electronic direct deposits, and cash deposits for most accounts?",
+      "answer": "Generally, these services will become available on the day your deposit is received."
+    },
+    {
+      "question": "Will some or all deposits made at an ATM be available on the same day we receive our deposit?",
+      "answer": "Yes"
+    },
+    {
+      "question": "What is the second business day availability for JPMorgan Chase Bank's deposit account agreement?",
+      "answer": "In some cases, we may not make all of the funds that you deposited by check available on the same day."
+    },
+    {
+      "question": "When are the funds from my deposit typically available?",
+      "answer": "The first $275 of these deposits will be available on the first business day after the day of your deposit."
+    },
+    {
+      "question": "What types of transactions are available same-day for the Chase Analysis Business Checking account?",
+      "answer": "Wire transfers, electronic direct deposits, and cash deposits made with a banker at a branch or at an ATM."
+    },
+    {
+      "question": "When are funds from my deposit available?",
+      "answer": "On the next business day after the day we receive your deposit."
+    },
+    {
+      "question": "What documents can be deposited at a bank branch to receive Next Day Funds Availability?",
+      "answer": "[a, \"State and local government checks\"]"
+    },
+    {
+      "question": "What types of checks can be deposited using the 'Next Day Funds Availability' deposit slip?",
+      "answer": "[\"Cashier's\", \"certified\", \"teller's\", \"Federal Reserve Bank\", \"Federal Home Loan Bank\", \"postal money order\"]"
+    },
+    {
+      "question": "What is the timeframe for accessing deposited funds?",
+      "answer": "Funds from all other deposits are available no later than the second business day after the day we receive your deposit."
+    },
+    {
+      "question": "What is the policy on delayed availability of checks?",
+      "answer": "We may delay availability for the full amount of the check, including the first $275, up to the seventh business day after the day of your deposit."
+    },
+    {
+      "question": "Why won't my deposited check be paid?",
+      "answer": "You deposited checks totaling more than $6,725 in any one day."
+    },
+    {
+      "question": "What happens if my check deposit is made with an employee or at an ATM and the bank delays my ability to withdraw funds?",
+      "answer": "We will inform you at that time."
+    },
+    {
+      "question": "When can you expect to receive a deposit hold notice after completing your deposit?",
+      "answer": "By the business day after the action is taken."
+    },
+    {
+      "question": "What is the timeline for when deposited funds become available?",
+      "answer": "Deposited funds will generally be available within one business day, but may take up to ten calendar days in some cases."
+    },
+    {
+      "question": "What is required to withdraw principal from a CD before it matures?",
+      "answer": "We do not offer this feature."
+    },
+    {
+      "question": "What special rules apply during the first 30 days an account is open?",
+      "answer": "Funds from deposits of the first $6,725"
+    },
+    {
+      "question": "What is the timeline for availability of deposited funds?",
+      "answer": "The excess over $6,725 will be available on the seventh business day after the day of your deposit."
+    },
+    {
+      "question": "What happens to the first $6,725 of a deposit made outside a bank branch?",
+      "answer": "It will not be available until the second business day after the day of deposit."
+    },
+    {
+      "question": "When can I expect my deposited funds to be available?",
+      "answer": "No later than the seventh business day after the day of your deposit."
+    },
+    {
+      "question": "What is the expected availability of funds after depositing a check?",
+      "answer": "Those funds will be available on the day they would have been available if you had deposited the check."
+    },
+    {
+      "question": "Can you be refused acceptance if you don",
+      "answer": "fail to maintain adequate safeguards against unauthorized use, or your failure to issue checks in a manner so as to prevent unauthorized completion, alteration or addition."
+    },
+    {
+      "question": "What measures must I take to protect my checks and information from theft and unauthorized use?",
+      "answer": "You must protect your checks and information from theft and unauthorized use."
+    },
+    {
+      "question": "What kind of checks are used to prevent unauthorized access to digital documents?",
+      "answer": "Digital locks and password protection"
+    },
+    {
+      "question": "What steps should I take to protect myself from check theft?",
+      "answer": "Review your account statements for checks and other errors."
+    },
+    {
+      "question": "How can I report unauthorized transactions on my account?",
+      "answer": "You should review your account statement promptly and notify us as per the How to Contact Us section."
+    },
+    {
+      "question": "What is your responsibility regarding errors and what steps will be taken to investigate alleged errors?",
+      "answer": "You are responsible for providing all necessary information to investigate alleged errors. This includes filing police reports and providing written statements, declarations, affidavits, and supporting documentation."
+    },
+    {
+      "question": "What are the requirements for a check to be reimbursed?",
+      "answer": "You must notify us about any check errors and comply with our reasonable requests for documentation and testimony."
+    },
+    {
+      "question": "What are my responsibilities regarding unauthorized checks on my bank statements?",
+      "answer": "You must report any unauthorized checks to us within 60 days of when the statement was made available to you, and you must report any altered checks to us within 6 months after the statement was made available to you."
+    },
+    {
+      "question": "Doesnt my bank have to endorse the back of the check before I can cash it?",
+      "answer": "We may not be liable to reimburse these checks to you."
+    },
+    {
+      "question": "What should I do to recover my funds?",
+      "answer": "attempt to recover your funds."
+    },
+    {
+      "question": "What is the policy regarding reimbursement of losses if we do not comply with the requirements set by the check or e",
+      "answer": "We are not required to reimburse you for any claimed loss, and you cannot bring any legal claim against us in any way related to the check or e"
+    },
+    {
+      "question": "What timeframe allows banks to attempt to collect on checks from other banks?",
+      "answer": "These timeframes do not limit our rights to attempt to collect on checks from other banks."
+    },
+    {
+      "question": "What conditions must I meet in order to be reimbursed by the company?",
+      "answer": "You must ensure that your account statement is accurate and complete, or if you did not receive a scheduled statement, take prompt action to comply with the requirements."
+    },
+    {
+      "question": "What types of transactions are subject to the 'Review Your Account Statements for Checks and Other Errors' requirement?",
+      "answer": "checks, teller transactions, and similar transactions."
+    },
+    {
+      "question": "What additional terms apply to account transactions under the Electronic Funds Transfer Service Terms?",
+      "answer": "Outgoing wire transfers or consumer international wire transfers, including cancellations, errors and unauthorized transactions."
+    },
+    {
+      "question": "Are there any restrictions on accessing wire transfer services?",
+      "answer": "Yes, using an untrusted device may limit access."
+    },
+    {
+      "question": "What types of devices are required to be used with my account?",
+      "answer": "Trusted devices"
+    },
+    {
+      "question": "What makes a trusted device for account access?",
+      "answer": "A trusted device is an eligible device that has been successfully enrolled with the company based on specific criteria."
+    },
+    {
+      "question": "What are the criteria that apply to using our service?",
+      "answer": "We set specific criteria that may be modified from time to time, which include using an eligible device and establishing device trust through verifying your identity and authenticating."
+    },
+    {
+      "question": "Can an eligible device be trusted without establishing device trust?",
+      "answer": "No"
+    },
+    {
+      "question": "What types of devices are eligible to become a trusted device?",
+      "answer": "A mobile smartphone device with a current operating system that we support (such as iOS or Android)"
+    },
+    {
+      "question": "What types of devices are considered eligible for device trust?",
+      "answer": "Laptops, desktop computers, and personal devices."
+    },
+    {
+      "question": "What steps do I need to take to verify my identity and authenticate?",
+      "answer": "You must take one or more actions such as taking a photo of your identification, entering information, etc."
+    },
+    {
+      "question": "What forms of identification are accepted for verification?",
+      "answer": [
+        "Valid driver\\u2019s licenses",
+        "State identifications",
+        "Additional qualifying forms of identification"
+      ]
+    },
+    {
+      "question": "What information is required from me for identification purposes?",
+      "answer": "Your image may be stored or retained only to the extent permitted by applicable law and will be used as permitted under our privacy policy."
+    },
+    {
+      "question": "What are the terms related to trusted devices when enrolling in Digital Platforms?",
+      "answer": "Terms related to trusted devices when enrolling in Digital Platforms."
+    },
+    {
+      "question": "What happens to the interest earned on checking and savings accounts under the Deposit Account Agreement?",
+      "answer": "Interest will be credited to your account on a daily basis, except for the last business day of each month. If we determine that it is not possible to make a payment on the last business day of the month, interest will accrue but will not be paid until the next business day."
+    },
+    {
+      "question": "What type of accounts pay interest?",
+      "answer": "Interest-bearing accounts"
+    },
+    {
+      "question": "Can interest begin to accrue on a business day after receiving credit for a deposit?",
+      "answer": "Yes"
+    },
+    {
+      "question": "When does interest begin to accrue on direct deposits?",
+      "answer": "The business day of your deposit."
+    },
+    {
+      "question": "What is the method used to calculate interest on my account?",
+      "answer": "The daily balance method"
+    },
+    {
+      "question": "What is the ed balance?",
+      "answer": "The ed balance is the balance of all deposits in your account on which we have received credit for the deposited funds, determined by the availability schedule of our Federal law."
+    },
+    {
+      "question": "What happens if I return a deposited item unpaid?",
+      "answer": "We reserve the right not to pay interest on such items."
+    },
+    {
+      "question": "How is interest calculated?",
+      "answer": "Interest is computed on a 365-day basis and paid in whole cents."
+    },
+    {
+      "question": "What happens to fractional amounts of interest in a loan?",
+      "answer": "Any fractional amount of interest less than half of one cent is rounded down, while any fractional amount equal to half of one cent or more is rounded up to the next whole cent."
+    },
+    {
+      "question": "What is the typical length of a statement period?",
+      "answer": "It may or may not be a calendar month."
+    },
+    {
+      "question": "What are the conditions for receiving a paperless statement?",
+      "answer": "Your account must have had some activity within the 32-day period covered by your account statement."
+    },
+    {
+      "question": "Will my mailing address be updated automatically if it changes?",
+      "answer": "No, if you receive paper statements, you must keep your mailing address up to date with us."
+    },
+    {
+      "question": "Can I still receive notices if my current address or email is invalid?",
+      "answer": "Yes, we may send you other notices related to your account."
+    },
+    {
+      "question": "Are combined statements considered sent to all owners of an account, even if not all owners have access to the mailing address?",
+      "answer": "true"
+    },
+    {
+      "question": "Can checking, savings and CD accounts with at least one common owner be combined on a single statement?",
+      "answer": "Yes, they can be combined either with or without your request."
+    },
+    {
+      "question": "Do I need to provide a new mailing address if my current one changes?",
+      "answer": "No, unless a new mailing address is designated for the account."
+    },
+    {
+      "question": "What changes will be made to statements?",
+      "answer": "We'll separate the statements."
+    },
+    {
+      "question": "What are the options for receiving checks",
+      "answer": "Three"
+    },
+    {
+      "question": "How do I view my check images?",
+      "answer": "Through our Digital Platforms."
+    },
+    {
+      "question": "What does it mean to have check safekeeping?",
+      "answer": "Some accounts require this feature, which includes receiving images of paid checks on the account statement."
+    },
+    {
+      "question": "What features are not available on all accounts or paperless statements?",
+      "answer": "statement cycle"
+    },
+    {
+      "question": "Does our agreement include checking for enclosure in statements?",
+      "answer": "No"
+    },
+    {
+      "question": "What happens to original checks after a reasonable period of time?",
+      "answer": "will destroy them"
+    },
+    {
+      "question": "Can I link my qualifying accounts to my checking account to avoid some fees?",
+      "answer": "Yes, you can."
+    },
+    {
+      "question": "What is the rule about linking an account to an account?",
+      "answer": "An account may be linked to only one checking account."
+    },
+    {
+      "question": "What happens if automatic linking is enabled for my accounts?",
+      "answer": "Accounts you hold individually may be linked to accounts you hold jointly with others, potentially affecting balance details and availability."
+    },
+    {
+      "question": "What happens if my checking account that links my other accounts closes?",
+      "answer": "You are responsible for requesting the linking of any remaining eligible accounts."
+    },
+    {
+      "question": "Can I still get notified if my linked accounts are delinked?",
+      "answer": "No, we are not required to notify you if we do."
+    },
+    {
+      "question": "Are you liable for financial gains made through account linking?",
+      "answer": "No"
+    },
+    {
+      "question": "What is required to link a phone or electronic device to this account?",
+      "answer": "Any additional requirements and the benefits from linking accounts."
+    },
+    {
+      "question": "Do you allow recording of telephone conversations and using your voice to verify your identity?",
+      "answer": "We do not have to keep the recordings unless the law says we must, but we can use your voice to verify your identity. We have your permission to contact you at the mobile number you provide."
+    },
+    {
+      "question": "Can I opt out of using my Chase or J.P. Morgan accounts for telemarketing purposes?",
+      "answer": "No, you can opt out of receiving calls from your bank for marketing purposes."
+    },
+    {
+      "question": "What are the potential costs associated with receiving sales calls?",
+      "answer": "Message and data rates may apply."
+    },
+    {
+      "question": "Can communications about account-related issues be sent electronically instead of through traditional mail?",
+      "answer": "We may send communications electronically, such as by email or text message, rather than through U.S. mail or other means, unless the law says otherwise."
+    },
+    {
+      "question": "What fees does the account holder agree to pay?",
+      "answer": "All fees, including interest charges."
+    },
+    {
+      "question": "Can I dispute the fees charged by this account at any time?",
+      "answer": "Yes, you can dispute the fees at any time, even if there are insufficient funds in your account."
+    },
+    {
+      "question": "If you owe a debt to us or any other party, can you still be charged fees even if we have waived or refunded them in the past?",
+      "answer": "No, refer to the Fee Schedule for specific fee information."
+    },
+    {
+      "question": "Can we use funds in your accounts to pay our debt?",
+      "answer": "Yes"
+    },
+    {
+      "question": "What happens if my account is a joint account?",
+      "answer": "We may use the funds in the joint account to pay the debt of any account owner."
+    },
+    {
+      "question": "Do we need to provide advance notice before applying for funds?",
+      "answer": "No, we do not have to give you any prior notice"
+    },
+    {
+      "question": "What are the terms under which the right of set-off can be applied to a debt?",
+      "answer": "The right of set-off only applies if the debt is not created under a consumer credit card plan."
+    },
+    {
+      "question": "What happens if a joint owner draws a check or authorizes withdrawals not presented for payment after their death?",
+      "answer": "The agreement will be governed by that agreement."
+    },
+    {
+      "question": "Can a surviving joint owner still exercise their rights on an account after another joint owner's death?",
+      "answer": "No"
+    },
+    {
+      "question": "If any federal benefits or other payments are deposited into my account after I become ineligible to receive them, what happens to the funds?",
+      "answer": "We may reduce my account balance."
+    },
+    {
+      "question": "What is an Account Alert in this context?",
+      "answer": "A notification sent by the platform about a specific action taken on your account."
+    },
+    {
+      "question": "What controls the terms of the digital or other online service agreements?",
+      "answer": "The terms of the digital platforms."
+    },
+    {
+      "question": "Can I manage my account alerts preferences?",
+      "answer": "Yes, you can use our digital platforms to manage your alert preferences."
+    },
+    {
+      "question": "What are acceptable times for receiving alerts?",
+      "answer": "Between 9 p.m. and 8 a.m. local time"
+    },
+    {
+      "question": "What can account alerts be used for?",
+      "answer": "Account Alerts provide information about your account but are not a substitute for reviewing your monthly statement."
+    },
+    {
+      "question": "What personal or confidential information may be included in recent debit card transactions or checks?",
+      "answer": "Personal or confidential information such as account numbers."
+    },
+    {
+      "question": "What is the purpose of the request?",
+      "answer": "To obtain information about account activity or status."
+    },
+    {
+      "question": "What are the consequences if I provide an incorrect email address?",
+      "answer": "You will have to pay the incurred loss, cost or expense."
+    },
+    {
+      "question": "Can I change my address if I reside outside the US?",
+      "answer": "No, if you live outside the US, we may close your account."
+    }
+  ]
+}
