@@ -1,0 +1,30 @@
+[
+ {
+    "api_id": "api_001",
+    "title": "Receive Expenses API",
+    "description": "Facilitate expense management by allowing users to submit and track their expenses, ensuring accurate record-keeping and reporting.",
+    "category": "Expenses",
+    "tags": ["Banking", "Debit Card", "Credit Card", "Expenses", "Shopping"]
+  },
+  {
+    "api_id": "api_002",
+    "title": "Receive Mobile and Branch Check Deposits API",
+    "description": "Facilitates the processing of mobile check deposits made by users, ensuring secure and accurate transaction handling.",
+    "category": "Check Deposits",
+    "tags": ["Banking", "Mobile", "Check", "Deposits", "Branch"]
+  },
+  {
+    "api_id": "api_003",
+    "title": "Receive  ATM Cash Deposits API",
+    "description": "Facilitates the processing of cash deposits made by users at ATMs , ensuring secure and accurate transaction handling.",
+    "category": "ATM Cash Deposits",
+    "tags": ["Banking", "Cash", "Deposits", "ATM"]
+  },
+  {
+    "api_id": "api_004",
+    "title": "Receive Branch Cash Deposits API",
+    "description": "Facilitates the processing of cash deposits made by users at bank branches, ensuring secure and accurate transaction handling.",
+    "category": "Branch Cash Deposits",
+    "tags": ["Banking", "Visit", "Cash", "Deposits", "Branch"]
+  }
+]

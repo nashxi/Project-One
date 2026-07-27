@@ -1,0 +1,420 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "Bank Dashboard Platform",
+    "version": "1.0.0",
+    "description": "Enterprise APIs for managing Dashboards using transactional operations."
+  },
+  "host": "localhost:8001",
+  "basePath": "/mainframe/olbq",
+  "schemes": [
+    "https",
+    "http"
+  ],
+  "produces": [
+    "application/json"
+  ],
+  "consumes": [
+    "application/json"
+  ],
+  "paths": {
+    "/v1/queries/anyintake": {
+      "get": {
+        "tags": [
+          "Always",
+          "Transactions",
+          "Deposits",
+          "Expenses",
+          "Checks",
+          "Cash"
+        ],
+        "extensions": [
+          "Always",
+          "Transactions",
+          "Deposits",
+          "Expenses",
+          "Checks",
+          "Cash"
+        ],
+        "summary": "Send User Query",
+        "description": "Dispatches an instantaneous query message or code to my middleware",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "user_query": {
+                    "type": "string",
+                    "description": "Formatted and Validated User Query."
+                  },
+                  "body_text": {
+                    "type": "string",
+                    "description": "The textual body content and other payload."
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Successful delivery of user query.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "message_id": {
+                      "type": "string",
+                      "description": "Unique alphanumeric delivery tracking identifier."
+                    },
+                    "delivery_status": {
+                      "type": "string",
+                      "description": "Accepted or Rejected or Malformed"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/v1/queries/depositsAllSources": {
+      "post": {
+        "tags": [
+          "Transactions",
+          "Cash Deposits",
+          "Check Deposits",
+          "ATM",
+          "Branch",
+          "Mobile",
+          "User",
+          "Dashboard"
+        ],
+        "summary": "Receive User Deposits all sources",
+        "description": "Receive User Deposits all sources",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "user_query": {
+                    "type": "string",
+                    "description": "Formatted and Validated User Query."
+                  },
+                  "Deposits": {
+                    "type": "string",
+                    "description": "The textual Depositsbody content and other payload."
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Successful delivery of user query.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "message_id": {
+                      "type": "string",
+                      "description": "Unique alphanumeric delivery tracking identifier."
+                    },
+                    "delivery_status": {
+                      "type": "string",
+                      "description": "Accepted or Rejected or Malformed"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/v1/queries/ExpensesAllSources": {
+      "post": {
+        "tags": [
+          "Transactions",
+          "Expenses",
+          "User",
+          "Debit Card",
+          "Credit Card",
+          "Dashboard"
+        ],
+        "summary": "Receive User Expenses only",
+        "description": "Receive User Expenses only",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "user_query": {
+                    "type": "string",
+                    "description": "Formatted and Validated User Query."
+                  },
+                  "Expenses": {
+                    "type": "string",
+                    "description": "The textual Expenses body content and other payload."
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Successful delivery of user query.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "message_id": {
+                      "type": "string",
+                      "description": "Unique alphanumeric delivery tracking identifier."
+                    },
+                    "delivery_status": {
+                      "type": "string",
+                      "description": "Accepted or Rejected or Malformed"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/v1/queries/CheckDepositsATM": {
+      "post": {
+        "tags": [
+          "Transactions",
+          "Check Deposits",
+          "ATM",
+          "User",
+          "Dashboard"
+        ],
+        "summary": "Receive User ATM Checks Deposits only",
+        "description": "Receive User ATM Checks Deposits only",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "user_query": {
+                    "type": "string",
+                    "description": "Formatted and Validated User Query."
+                  },
+                  "CheckDepositsATM": {
+                    "type": "string",
+                    "description": "The textual Check Deposits ATM body content and other payload."
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Successful delivery of user query.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "message_id": {
+                      "type": "string",
+                      "description": "Unique alphanumeric delivery tracking identifier."
+                    },
+                    "delivery_status": {
+                      "type": "string",
+                      "description": "Accepted or Rejected or Malformed"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/v1/queries/CashWithdrawalsATM": {
+      "post": {
+        "tags": [
+          "Transactions",
+          "Cash Withdrawals",
+          "ATM",
+          "User",
+          "Dashboard"
+        ],
+        "summary": "Receive ATM User Cash Withdrawals only",
+        "description": "Receive ATM User Cash Withdrawals only",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "user_query": {
+                    "type": "string",
+                    "description": "Formatted and Validated User Query."
+                  },
+                  "CashWithdrawalsATM": {
+                    "type": "string",
+                    "description": "The textual Cash Withdrawals ATM body content and other payload."
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Successful delivery of user query.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "message_id": {
+                      "type": "string",
+                      "description": "Unique alphanumeric delivery tracking identifier."
+                    },
+                    "delivery_status": {
+                      "type": "string",
+                      "description": "Accepted or Rejected or Malformed"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/v1/queries/CashDepositsBranch": {
+      "post": {
+        "tags": [
+          "Transactions",
+          "Cash Deposits",
+          "Branch",
+          "User",
+          "Dashboard"
+        ],
+        "summary": "Receive User Cash Deposits Branch only",
+        "description": "Receive User Cash Deposits Branch only",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "user_query": {
+                    "type": "string",
+                    "description": "Formatted and Validated User Query."
+                  },
+                  "CashDepositsBranch": {
+                    "type": "string",
+                    "description": "The textual Cash Deposits Branch body content and other payload."
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Successful delivery of user query.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "message_id": {
+                      "type": "string",
+                      "description": "Unique alphanumeric delivery tracking identifier."
+                    },
+                    "delivery_status": {
+                      "type": "string",
+                      "description": "Accepted or Rejected or Malformed"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/v1/queries/CashWithdrawalsBranch": {
+      "post": {
+        "tags": [
+          "Transactions",
+          "Cash Withdrawals",
+          "Branch",
+          "User",
+          "Dashboard"
+        ],
+        "summary": "Receive User Cash Withdrawals Branch only",
+        "description": "Receive User Cash Withdrawals Branch only",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "user_query": {
+                    "type": "string",
+                    "description": "Formatted and Validated User Query."
+                  },
+                  "CashWithdrawalsBranch": {
+                    "type": "string",
+                    "description": "The textual Cash Withdrawals Branch body content and other payload."
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Successful delivery of user query.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "message_id": {
+                      "type": "string",
+                      "description": "Unique alphanumeric delivery tracking identifier."
+                    },
+                    "delivery_status": {
+                      "type": "string",
+                      "description": "Accepted or Rejected or Malformed"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,50 @@
+[
+    {
+    'api_title': 'Bank Dashboard Platform', 
+    'tags': ['Always', 'Transactions', 'Deposits', 'Expenses', 'Checks', 'Cash'], 
+    'summary': 'Send User Query', 
+    'endpoint': 'POST /v1/queries/anyintake'
+    }, 
+    {
+        'summary': 'Receive User Deposits all sources', 
+        'endpoint': 'POST /v1/queries/depositsAllSources',
+         'api_title': 'Bank Dashboard Platform', 
+         'tags': ['Transactions', 'Cash Deposits', 'Check Deposits', 'ATM', 'Branch', 'Mobile', 'User', 'Dashboard']
+    },
+          {'tags': ['Transactions', 'Expenses', 'User', 'Debit Card', 'Credit Card', 'Dashboard'], 
+            'summary': 'Receive User Expenses only', 'endpoint': 'POST /v1/queries/ExpensesAllSources', 
+            'api_title': 'Bank Dashboard Platform'
+        }
+            , {'api_title': 'Bank Dashboard Platform', 'tags': ['Transactions', 'Check Deposits', 'ATM', 'User', 'Dashboard'], 'summary': 'Receive User ATM Checks Deposits only', 'endpoint': 'POST /v1/queries/CheckDepositsATM'}, {'tags': ['Transactions', 'Cash Deposits', 'ATM', 'User', 'Dashboard'], 'endpoint': 'POST /v1/queries/CashWithdrawalsATM', 'summary': 'Receive ATM User Cash Withdrawals only', 'api_title': 'Bank Dashboard Platform'}, {'api_title': 'Bank Dashboard Platform', 'tags': ['Transactions', 'Cash Deposits', 'Branch', 'User', 'Dashboard'], 'summary': 'Receive User Cash Deposits Branch only', 'endpoint': 'POST /v1/queries/CashDepositsBranch'}, {'api_title': 'Bank Dashboard Platform', 'summary': 'Receive User Cash Withdrawals Branch only', 'endpoint': 'POST /v1/queries/CashWithdrawalsBranch', 'tags': ['Transactions', 'Cash Withdrawals', 'Branch', 'User', 'Dashboard']}]
+
+[Search Query]: 'show me expenses'
+Collection counts: 7
+   Metadata Text: None
+   Indexed Text: None
+
+       # Clean and prepare text
+    paragraphs = [p.strip() for p in text.split('\n\n') if len(p.strip()) > 50]
+    print(f"\nFound {len(paragraphs)} Customer agreement paragraphs")
+    print(f"Average paragraph length: {sum(len(p) for p in paragraphs) // len(paragraphs)} characters")
+    print(f"\nSample paragraph:")
+    print(paragraphs[0][:200] + "...")
+
+# ============================================================
+# 20. Push LoRA adapter to Hugging Face Hub
+# ============================================================
+repo_id = "Nashxi/bankaccountagreement-tinyllama-domain-lora-live"
+
+import os
+from dotenv import load_dotenv
+
+# Load key-value pairs from the .env file into the system environment
+load_dotenv(override=True)
+
+# Safely extract variables using os.getenv()
+api_key = os.getenv("HF_TOKEN")
+print("HF_TOKEN loaded from .env:", api_key)
+
+model.push_to_hub(
+    repo_id, token=api_key,
+    private=True
+)
