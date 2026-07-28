@@ -1,0 +1,51 @@
+[
+  {
+    "api_id": "api_001",
+    "title": "Send User Query",
+    "description": "Dispatches an instantaneous query message or code to middleware.",
+    "category": "User Query",
+    "tags": ["Always", "Transactions", "Deposits", "Expenses", "Checks", "Cash"]
+  },
+  {
+    "api_id": "api_002",
+    "title": "Show User Deposits all sources",
+    "description": "Show user deposits from all sources, including ATM, branch, mobile, and check deposits.",
+    "category": "Deposits",
+    "tags": ["Transactions", "Cash Deposits", "Check Deposits", "ATM", "Branch", "Mobile", "User", "Dashboard"]
+  },
+  {
+    "api_id": "api_003",
+    "title": "Show User Expenses only",
+    "description": "Show user expense information for expense management and reporting.",
+    "category": "Expenses",
+    "tags": ["Transactions", "Expenses", "User", "Debit Card", "Credit Card", "Dashboard"]
+  },
+  {
+    "api_id": "api_004",
+    "title": "Show User ATM Cash Deposits only",
+    "description": "Show ATM Cash deposit information for users.",
+    "category": "ATM Cash Deposits",
+    "tags": ["Transactions", "Cash Deposits", "ATM", "User", "Dashboard"]
+  },
+  {
+    "api_id": "api_005",
+    "title": "Show User ATM Cash Withdrawals only",
+    "description": "Show ATM cash withdrawal requests from users.",
+    "category": "ATM Cash Withdrawals",
+    "tags": ["Transactions", "Cash Withdrawals", "ATM", "User", "Dashboard"]
+  },
+  {
+    "api_id": "api_006",
+    "title": "Show User Cash Deposits Branch only",
+    "description": "Show branch cash deposit information for users.",
+    "category": "Branch Cash Deposits",
+    "tags": ["Transactions", "Cash Deposits", "Branch", "User", "Dashboard"]
+  },
+  {
+    "api_id": "api_007",
+    "title": "Show User Cash Withdrawals at Branch only",
+    "description": "Show branch cash withdrawals information for users.",
+    "category": "Branch Cash Withdrawals",
+    "tags": ["Transactions", "Cash Withdrawals", "Branch", "User", "Dashboard"]
+  }
+]

@@ -1,0 +1,137 @@
+type get_v1_queries_anyintake_response {
+  """Unique alphanumeric delivery tracking identifier."""
+  message_id: String
+
+  """Accepted or Rejected or Malformed"""
+  delivery_status: String
+}
+
+type Mutation {
+  """Receive User Deposits all sources"""
+  post_v1_queries_depositsAllSources(body: param_post_v1_queries_depositsAllSources_bodyInput!): post_v1_queries_depositsAllSources_response!
+
+  """Receive User Expenses only"""
+  post_v1_queries_ExpensesAllSources(body: param_post_v1_queries_ExpensesAllSources_bodyInput!): post_v1_queries_ExpensesAllSources_response!
+
+  """Receive User ATM Checks Deposits only"""
+  post_v1_queries_CheckDepositsATM(body: param_post_v1_queries_CheckDepositsATM_bodyInput!): post_v1_queries_CheckDepositsATM_response!
+
+  """Receive ATM User Cash Withdrawals only"""
+  post_v1_queries_CashWithdrawalsATM(body: param_post_v1_queries_CashWithdrawalsATM_bodyInput!): post_v1_queries_CashWithdrawalsATM_response!
+
+  """Receive User Cash Deposits Branch only"""
+  post_v1_queries_CashDepositsBranch(body: param_post_v1_queries_CashDepositsBranch_bodyInput!): post_v1_queries_CashDepositsBranch_response!
+
+  """Receive User Cash Withdrawals Branch only"""
+  post_v1_queries_CashWithdrawalsBranch(body: param_post_v1_queries_CashWithdrawalsBranch_bodyInput!): post_v1_queries_CashWithdrawalsBranch_response!
+}
+
+input param_get_v1_queries_anyintake_bodyInput {
+  """Formatted and Validated User Query."""
+  user_query: String
+
+  """The textual body content and other payload."""
+  body_text: String
+}
+
+input param_post_v1_queries_CashDepositsBranch_bodyInput {
+  """Formatted and Validated User Query."""
+  user_query: String
+
+  """The textual Cash Deposits Branch body content and other payload."""
+  CashDepositsBranch: String
+}
+
+input param_post_v1_queries_CashWithdrawalsATM_bodyInput {
+  """Formatted and Validated User Query."""
+  user_query: String
+
+  """The textual Cash Withdrawals ATM body content and other payload."""
+  CashWithdrawalsATM: String
+}
+
+input param_post_v1_queries_CashWithdrawalsBranch_bodyInput {
+  """Formatted and Validated User Query."""
+  user_query: String
+
+  """The textual Cash Withdrawals Branch body content and other payload."""
+  CashWithdrawalsBranch: String
+}
+
+input param_post_v1_queries_CheckDepositsATM_bodyInput {
+  """Formatted and Validated User Query."""
+  user_query: String
+
+  """The textual Check Deposits ATM body content and other payload."""
+  CheckDepositsATM: String
+}
+
+input param_post_v1_queries_depositsAllSources_bodyInput {
+  """Formatted and Validated User Query."""
+  user_query: String
+
+  """The textual Depositsbody content and other payload."""
+  Deposits: String
+}
+
+input param_post_v1_queries_ExpensesAllSources_bodyInput {
+  """Formatted and Validated User Query."""
+  user_query: String
+
+  """The textual Expenses body content and other payload."""
+  Expenses: String
+}
+
+type post_v1_queries_CashDepositsBranch_response {
+  """Unique alphanumeric delivery tracking identifier."""
+  message_id: String
+
+  """Accepted or Rejected or Malformed"""
+  delivery_status: String
+}
+
+type post_v1_queries_CashWithdrawalsATM_response {
+  """Unique alphanumeric delivery tracking identifier."""
+  message_id: String
+
+  """Accepted or Rejected or Malformed"""
+  delivery_status: String
+}
+
+type post_v1_queries_CashWithdrawalsBranch_response {
+  """Unique alphanumeric delivery tracking identifier."""
+  message_id: String
+
+  """Accepted or Rejected or Malformed"""
+  delivery_status: String
+}
+
+type post_v1_queries_CheckDepositsATM_response {
+  """Unique alphanumeric delivery tracking identifier."""
+  message_id: String
+
+  """Accepted or Rejected or Malformed"""
+  delivery_status: String
+}
+
+type post_v1_queries_depositsAllSources_response {
+  """Unique alphanumeric delivery tracking identifier."""
+  message_id: String
+
+  """Accepted or Rejected or Malformed"""
+  delivery_status: String
+}
+
+type post_v1_queries_ExpensesAllSources_response {
+  """Unique alphanumeric delivery tracking identifier."""
+  message_id: String
+
+  """Accepted or Rejected or Malformed"""
+  delivery_status: String
+}
+
+type Query {
+  """Dispatches an instantaneous query message or code to my middleware"""
+  get_v1_queries_anyintake(body: param_get_v1_queries_anyintake_bodyInput!): get_v1_queries_anyintake_response!
+}
+
