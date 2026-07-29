@@ -1,0 +1,140 @@
+enum AccountType {
+  CHECKING
+  SAVINGS
+  CREDIT_CARD
+  LOAN
+}
+
+enum TransactionType {
+  CREDIT
+  DEBIT
+}
+
+enum TransactionStatus {
+  PENDING
+  COMPLETED
+  FAILED
+}
+
+enum AccountStatus {
+  ACTIVE
+  SUSPENDED
+  CLOSED
+}
+
+enum TransactionMode {
+  CASH
+  CHECK
+}
+
+type BankAccount {
+  accountId: ID!
+  accountNumber: String!
+  routingNumber: String!
+  accountType: AccountType!
+  currency: String!
+  balance: Float!
+  status: AccountStatus!
+  openedDate: String!
+}
+
+type Transaction {
+  transactionId: ID!
+  date: String!
+  type: TransactionType!
+  amount: Float!
+  currency: String!
+  description: String!
+  status: TransactionStatus!
+}
+
+type AccountTransactions {
+  accountId: ID!
+  transactionCount: Int!
+  transactions: [Transaction!]!
+}
+
+type ForecastData {
+  accountId: ID!
+  forecastDate: String!
+  projectedAmount: Float!
+  confidenceScore: Float
+}
+
+type Query {
+  """
+  Retrieves the profile details and current balance of a specific bank account.
+  """
+  getBankAccount(
+    """The unique identifier of the bank account."""
+    accountId: ID!
+  ): BankAccount
+
+  """
+  Retrieves a list of financial transactions associated with a specific bank account.
+  """
+  getAccountTransactions(
+    """The unique identifier of the bank account."""
+    accountId: ID!, 
+    """Optional filter to only show transactions of a specific mode (CASH/CHECK)."""
+    transactionMode: TransactionMode,
+    """The maximum number of transaction records to return for pagination."""
+    limit: Int
+  ): AccountTransactions
+
+  """
+  Retrieves physical branch transactions. Use Bank and Branch interchangeably. Filter optionally by type (CREDIT/DEBIT) or mode (CASH/CHECK).
+  """
+  getAccountBranchTransactions(
+    """The unique identifier of the bank account."""
+    accountId: ID!,
+    """Optional filter to only show CREDIT or DEBIT transactions."""
+    transactionType: TransactionType,
+    """Optional filter to only show transactions of a specific mode (CASH/CHECK)."""
+    transactionMode: TransactionMode,
+    """The maximum number of transaction records to return."""
+    limit: Int
+  ): AccountTransactions
+
+  """
+  Retrieves automated teller machine (ATM) transactions for a specific account. Filter optionally by mode (CASH/CHECK).
+  """
+  getAccountATMTransactions(
+    """The unique identifier of the bank account."""
+    accountId: ID!,
+    """Optional filter to only show transactions of a specific mode (CASH/CHECK)."""
+    transactionMode: TransactionMode,
+    """The maximum number of transaction records to return."""
+    limit: Int
+  ): AccountTransactions
+
+  """
+  Retrieves a breakdown of categorized debit and spending transactions for a specific bank account.
+  """
+  getAccountExpenses(
+    """The unique identifier of the bank account."""
+    accountId: ID!,
+    """The maximum number of expense records to return."""
+    limit: Int
+  ): AccountTransactions
+
+  """
+  Calculates and generates a predictive forecast of the future balance of a specific bank account.
+  """
+  getForecastAccountBalance(
+    """The unique identifier of the bank account."""
+    accountId: ID!,
+    """The target future date for the balance prediction (e.g., YYYY-MM-DD)."""
+    targetDate: String!
+  ): ForecastData
+
+  """
+  Calculates and generates a predictive forecast of future spending and liability trends for an account.
+  """
+  getForecastExpenses(
+    """The unique identifier of the bank account."""
+    accountId: ID!,
+    """The target future date for the expense prediction (e.g., YYYY-MM-DD)."""
+    targetDate: String!
+  ): ForecastData
+}
